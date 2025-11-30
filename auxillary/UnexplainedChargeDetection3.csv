@@ -1,0 +1,6 @@
+text,label
+I have an unknown charge showing on my credit card activity.,account_charge_query
+Could you tell me what the recent service fee on my monthly statement is for?,account_charge_query
+There's a transaction on my history I don't remember making.,account_charge_query
+Why did I get an extra processing fee on my last payment?,account_charge_query
+I'm looking at my statement and see a charge of $10 that I don't recognize. Can you help?,account_charge_query

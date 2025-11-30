@@ -1,0 +1,175 @@
+task_name;task_description;score;used
+currency_conversion1;"Here is the task description for Auxiliary Task 2:
+
+---
+
+**Auxiliary Task 2: Identify if the query involves currency exchange.**
+
+*   **Label**: `currency_conversion_request`
+*   **Purpose**: This task trains the LLM to recognize the fundamental intent of currency exchange, regardless of whether the specific mention of ""app"" is present. This strengthens its ability to correctly identify `exchange_via_app` queries by focusing on the primary action involved (converting one currency to another). It helps the model understand the core concept of currency conversion, making it more robust in classifying relevant queries even with varying phrasing.
+
+*   **Examples**:
+    *   {text: ""How do I swap my euros for dollars?"", label: ""currency_conversion_request""}
+    *   {text: ""I want to change my GBP to JPY."", label: ""currency_conversion_request""}
+    *   {text: ""What is the current exchange rate for different currencies?"", label: ""currency_conversion_request""}
+
+---";14.166666666666666;6
+UnexplainedChargeDetection3;"**Task Description for Auxiliary Task 1: Identifying queries about unexpected charges/fees on an account.**
+
+**Task Description:**
+The goal of this auxiliary task is to identify customer queries that specifically concern an unexpected or unrecognized charge, debit, or fee appearing on their financial statement or account. The LLM should learn to recognize language indicating a customer is questioning the validity or purpose of an amount that has already been debited from their account, distinguishing these from queries about declined payments or potential fraud where the transaction may not have occurred yet or is part of a broader security concern. By training on this task, the model develops a robust understanding of the core concept of an ""unexplained charge,"" which is crucial for accurately classifying queries into the `extra_charge_on_statement` category.
+
+**Label:** `account_charge_query`";14.25;4
+FraudSecurityDetection4;"**Auxiliary Task Description for Task 2: Identifying queries related to suspected fraud or unauthorized account activity.**
+
+**Description:** The LLM is tasked with identifying customer service queries that indicate a suspicion of fraud, unauthorized activity, security breaches, or any form of illicit access to their financial account or payment instrument (like a card). The goal is to train the model to recognize the core intent of reporting a security risk or an unapproved action, independent of specific keywords or the particular financial product mentioned. Queries that express concern about transactions they did not make, accounts being hacked, or cards being used without permission should be classified with the designated label.
+
+**Label:** `fraud_security_concern`";14.25;4
+StatementFocus6;"Here's the task description for Auxiliary Task 1:
+
+**Auxiliary Task 1: Identify if the query is primarily about a financial statement.**
+
+**Task Description:**
+The objective of this auxiliary task is to train the LLM to recognize when a customer's query pertains directly to their financial statement, account activity, or transaction history. This involves identifying explicit mentions of ""statement,"" ""bill,"" ""transaction list,"" or similar concepts, as well as inferring the context from questions about charges, fees, or activity that would typically appear on such a document. By mastering this, the model will develop a stronger understanding of the underlying context for queries like `extra_charge_on_statement`, helping it distinguish between a general question about a charge and one specifically tied to an item on a statement. The label `statement_focus` should be assigned to any query where the primary subject or a key piece of information being sought relates to a review or understanding of a financial statement or a similar official record of account activity.";14.25;4
+fraud_activity_detection7;"**Auxiliary Task 2: Identify if the query expresses a concern about fraudulent or unauthorized activity.**
+
+**Task Description:**
+This auxiliary task requires the LLM to determine whether a given customer service query contains language that indicates potential fraudulent, unauthorized, or suspicious activity related to their account or card. The model should output the label `fraud_activity` if the query suggests someone else might be using their card or account without permission, or if they are reporting suspicious transactions. This helps the LLM recognize the core semantic meaning of security concerns, which is critical for accurately classifying queries into the `compromised_card` category. By learning to identify keywords and phrases such as ""used without my knowledge,"" ""unauthorized,"" ""fraudulent activity,"" ""don't recognize,"" ""hacked,"" or ""stolen card,"" the model can develop a robust understanding of these situations, distinguishing them from other types of account issues.";14.25;4
+currency_exchange_query11;"**Auxiliary Task 3: Identifying a query related to *currency conversion* or *exchange features*.**
+
+This task focuses the LLM on understanding the vocabulary and intent around currency exchange, international money, and specific app functionalities for conversion. This is highly beneficial for accurately classifying queries into the `exchange_via_app` category by training the model to recognize phrases and concepts directly tied to converting between different currencies.
+
+*   **Label:** `currency_feature_query`
+*   **Example Texts:**
+    *   `{text: ""I want to change my account's base currency."", label: ""currency_feature_query""}`
+    *   `{text: ""Does the app offer real-time exchange rates?"", label: ""currency_feature_query""}`
+    *   `{text: ""Can I convert my EUR balance to JPY?"", label: ""currency_feature_query""}`
+    *   `{text: ""How do I swap currencies within the application?"", label: ""currency_feature_query""}`
+    *   `{text: ""I need to send money abroad in a different currency."", label: ""currency_feature_query""}`";14.857142857142858;7
+`app_feature_query`14;"**Auxiliary Task 3: Detect queries about app functionality**
+This task helps the LLM distinguish queries that specifically ask about the capabilities or features of the application. This is highly relevant for `exchange_via_app` and other app-specific questions, ensuring the model correctly identifies when a user is inquiring about what the application *can do*.
+
+*   `{text: ""Can I transfer money using this mobile application?"", label: ""app_functionality_query""}`
+*   `{text: ""Does the app support international payments?"", label: ""app_functionality_query""}`
+*   `{text: ""How do I update my profile in the app?"", label: ""app_functionality_query""}`
+*   `{text: ""Is it possible to view my statement in the app?"", label: ""app_functionality_query""}`
+*   `{text: ""What features are available on the mobile platform?"", label: ""app_functionality_query""}`";14.3;10
+card_account_mention15;"**Task Description for Auxiliary Task 1: Detect explicit mentions of a financial `Card` or `Account`**
+
+*   **Objective:** The primary goal of this auxiliary task is to identify whether a customer's query contains an explicit, direct reference to their personal financial `card` (such as a debit card, credit card, or prepaid card) or their `financial account` (including bank accounts, statements, transaction history, or current balance).
+
+*   **Label to Assign:** `mentions_card_account`
+
+*   **When to Apply the Label:**
+    *   Assign the label `mentions_card_account` if the query explicitly names or clearly refers to the customer's *own* financial card or account.
+    *   Look for keywords and phrases such as:
+        *   **For Cards:** ""card"", ""my card"", ""debit card"", ""credit card"", ""my plastic"" (if the context clearly indicates a physical card).
+        *   **For Accounts/Statements:** ""account"", ""my account"", ""statement"", ""my statement"", ""transaction"", ""my transactions"", ""balance"", ""my balance"", ""funds"" (when referring to money held in their personal account).
+    *   The mention should be a direct reference to the entity itself, not merely imply a financial context without explicitly naming the card or account.
+
+*   **Why This Task Is Helpful:** This task helps the LLM develop a foundational understanding of when a query is grounded in a specific financial instrument or record. This understanding is critical for distinguishing queries related to `extra_charge_on_statement` and `compromised_card`, where the card or account is the central subject, from other types of queries.
+
+*   **Examples:**
+    *   `{text: ""Somebody used my card without my knowledge!"", label: ""mentions_card_account""}` (Explicitly mentions ""my card"")
+    *   `{text: ""There's an extra fee on my statement, why is that?"", label: ""mentions_card_account""}` (Explicitly mentions ""my statement"", which relates to an account)
+    *   `{text: ""How do I report possible fraudulent activity on my account?"", label: ""mentions_card_account""}` (Explicitly mentions ""my account"")
+    *   `{text: ""Why i'm I being charged an extra pound"", label: ""mentions_card_account""}` (Implies a charge to an account/card, often followed by ""on my statement"" or ""on my card"")";14.4;5
+query_discrepancy16;"Okay, here is the task description for Auxiliary Task 2:
+
+---
+
+**Auxiliary Task 2: Identify queries expressing `Surprise`, `Confusion`, or `Discrepancy` about a past financial event.**
+
+*   **Task Description:** This task aims to identify customer service queries where the user expresses surprise, confusion, or flags a discrepancy related to a past financial transaction, charge, or their account statement. The core sentiment is one of not understanding, not recognizing, or questioning the validity/reason for a specific financial occurrence that has already happened.
+
+*   **Reasoning:** The `extra_charge_on_statement` category is heavily characterized by users noticing something unexpected on their statement and seeking clarification or an explanation. By training the LLM to recognize this specific pattern of ""querying a discrepancy,"" it can better distinguish these types of queries from others, such as reporting a proactive fraudulent activity (`compromised_card`) or asking for how-to instructions (`exchange_via_app`). This task helps the model capture the underlying user intent of *investigating an unexpected financial event*.
+
+*   **Label:** `query_discrepancy`
+
+*   **Example texts from customers:**
+    *   `{text: ""There's an extra fee on my statement, why is that?"", label: ""query_discrepancy""}`
+    *   `{text: ""Why i'm I being charged an extra pound"", label: ""query_discrepancy""}`
+    *   `{text: ""I don't recognize a recent transaction on my account statement."", label: ""query_discrepancy""}`
+    *   `{text: ""What was the $1 charge for on my statement?"", label: ""query_discrepancy""}`";14.2;5
+app_how_to_query17;"**Auxiliary Task 3 Description:**
+
+**Task Name:** Identify queries about using a digital application or service.
+
+**Objective:** This auxiliary task aims to train the LLM to recognize when a customer's query is a ""how-to"" question specifically directed at understanding or performing an action within a digital application (like a mobile app) or a digital service.
+
+**Why it's helpful:**
+The `exchange_via_app` category is fundamentally a ""how-to"" question about using the application's currency exchange feature. By explicitly training the model to detect `app_how_to_query`, it learns to identify the instructional nature of such queries and their focus on digital tools. This helps differentiate them from queries about account discrepancies (`extra_charge_on_statement`) or security concerns (`compromised_card`), which typically aren't instructional in nature regarding app usage. It helps the model capture the intent and scope (app-specific functionality) of these types of questions more robustly.
+
+**Label:** `app_how_to_query`";15.0;6
+currency_conversion_detection20;"**Task Description for Auxiliary Task 3:**
+
+**Task Title:** Detecting interest or questions about currency conversion/exchange.
+
+**Purpose:** This auxiliary task aims to train the LLM to identify customer service queries that express a general interest in, or directly ask about, currency conversion or exchange services. The goal is to build a foundational understanding of language related to changing one currency into another, regardless of the method (e.g., app, bank, physical exchange).
+
+**Label:** `currency_conversion_interest`
+
+**How it helps `exchange_via_app`:** By first recognizing the underlying need for ""currency conversion,"" the LLM can then more effectively narrow down whether that conversion specifically pertains to the ""app."" This helps the model generalize beyond queries explicitly mentioning ""app"" or ""in-app"" when a user's core intent is currency exchange, thus improving recall for the `exchange_via_app` category by providing a strong initial signal that the query is about currency. It teaches the model to understand the *what* (currency exchange) before the *how* (via app).";14.5;4
+specific_charge_inquiry23;"**Auxiliary Task 3: Recognize queries that specifically question a numerical charge or fee on an account or statement.**
+
+*   **Task Description:** This auxiliary task aims to train the LLM to identify customer service queries where the user is specifically inquiring about or challenging a particular numerical amount (e.g., ""$5"", ""£10"", ""2.99 EUR"") that appears as a charge, fee, or debit on their account or statement. The model should learn to associate numerical values with terms like ""charge,"" ""fee,"" ""debit,"" ""transaction,"" ""statement,"" or ""account"" when the user expresses confusion, disagreement, or requests an explanation for that specific amount. This task helps the LLM distinguish between general balance inquiries, questions about payments that failed to go through, and queries that specifically pinpoint an unexpected or unexplained charge, which is a key characteristic of the `extra_charge_on_statement` category.
+
+*   **Label:** `query_about_specific_charge`
+*   **Why it's helpful:** This task assists the LLM in identifying the critical components of an `extra_charge_on_statement` query: the mention of a specific numerical value (e.g., ""$5"", ""10-pound"") coupled with terms like ""charge,"" ""fee,"" or ""debit,"" and an implicit or explicit request for explanation. This distinguishes it from general balance inquiries or inquiries about payment attempts that didn't go through.
+*   **Examples:**
+    *   `{text: ""There's a $5 charge I don't understand."", label: ""query_about_specific_charge""}`
+    *   `{text: ""Can you tell me about the 10-pound fee?"", label: ""query_about_specific_charge""}`
+    *   `{text: ""What is this 2.99 debit on my statement?"", label: ""query_about_specific_charge""}`
+    *   `{text: ""I see an unfamiliar transaction for 15 EUR."", label: ""query_about_specific_charge""}`";14.4;5
+AppFunctionalityQuery26;"Here is the task description for Auxiliary Task 3:
+
+**Auxiliary Task 3: Detect Queries About Application Functionality or Capability**
+
+**Task Description:** The goal of this auxiliary task is to identify customer service queries where the user is asking about the capabilities or features of a specific application (e.g., a mobile app, online portal). This includes questions about whether a particular action can be performed within the app, or how to perform an action using the app. The model should assign the label `app_functionality_query` to any text that expresses an inquiry about an application's functions or how to use them. This helps the LLM distinguish between users reporting an issue (like an extra charge or a compromised card) and users actively exploring or inquiring about what they can *do* with the provided digital tools, which is highly relevant for classifying `exchange_via_app` queries.";14.75;4
+MonetaryValueDetection27;"**Auxiliary Task 1: Identify mentions of currency or specific monetary amounts.**
+
+**Task Description:**
+The objective of this auxiliary task is to determine if a customer service query explicitly contains references to currency symbols (e.g., $, £, €), currency names (e.g., USD, GBP, dollars, pounds, euros), or specific monetary values (e.g., ""an extra fee,"" ""1 charge,"" ""a pound""). The successful completion of this task aids the LLM in developing a granular understanding of financial denominations and values present in text. This skill is critical for accurately classifying queries, particularly those concerning unexpected charges on statements (`extra_charge_on_statement`) and requests involving currency exchange operations (`exchange_via_app`), as it helps the model isolate and prioritize financially relevant language patterns.";14.166666666666666;6
+FinancialTransactionReview28;"Here is the task description for Auxiliary Task 2:
+
+**Task Description:**
+
+**Auxiliary Task 2: Identify queries that inquire about or review a financial transaction.**
+
+This task aims to train the LLM to recognize when a customer is asking about a specific past, current, or pending financial transaction or activity on their account. This includes queries questioning the presence, amount, or reason for a charge, fee, or payment, or seeking clarification on a transaction's status. Successfully identifying such queries will significantly help the model distinguish `extra_charge_on_statement` queries from other categories by focusing on the core intent of reviewing an account's financial ledger. It helps the model understand that the user is scrutinizing a monetary event rather than reporting a security breach or requesting a currency conversion.";14.25;4
+CurrencyExchangeIntent32;"**Task Description for Auxiliary Task 3: Identify queries expressing an intent to exchange or convert currencies.**
+
+This auxiliary task trains the LLM to recognize when a customer's query indicates a desire to exchange or convert one currency to another. By teaching the model to associate specific language patterns, keywords (e.g., ""exchange,"" ""convert,"" specifying different currency codes like USD, GBP), and phrases with this core intent, it enhances the LLM's ability to accurately classify queries into the `exchange_via_app` category. This helps the model differentiate between general financial inquiries and those specifically about currency conversion functionalities within the application.";14.4;5
+app_feature_query41;"Here is the task description for the generated auxiliary task number 3:
+
+**Auxiliary Task: Identify queries related to using features or performing actions within the application/platform.**
+
+**Task Description:**
+This auxiliary task aims to train the LLM to recognize when a customer's query is specifically about how to use a function, feature, or perform an action *within the provided application or digital platform*. This is crucial for distinguishing between general information seeking and direct requests about app functionality. For instance, it helps the model differentiate ""What is currency exchange?"" (which is not this label) from ""How can I exchange currency *in the app*?"" (which is this label). By learning to identify these ""how-to"" or ""can I do X in the app"" type questions, the model will better understand the context of user intent, especially for categories like `exchange_via_app` which directly relate to in-app actions. The label for this task is `app_feature_query`.";14.5;4
+app_general44;"**Task Description for Auxiliary Task 3: `app_general_query`**
+
+This auxiliary task aims to train the LLM to differentiate between customer queries that are *specifically* about currency exchange functionality within the application (which would map to `exchange_via_app`) and more *general* inquiries about other features, settings, or navigation within the app.
+
+By exposing the model to texts labeled `app_general_query`, we help it understand the scope of `exchange_via_app`. This contrast teaches the LLM to look for explicit mentions of ""exchange,"" ""convert,"" or ""currency"" when classifying `exchange_via_app`, preventing it from incorrectly classifying any question related to the app as a currency exchange query. It helps the model become more precise in identifying queries uniquely focused on the currency exchange feature, improving the accuracy of the `exchange_via_app` classification by reducing false positives from general app support requests.";14.166666666666666;6
+monetary_detection45;"**Auxiliary Task Description:**
+
+**Task Name:** Identify Mentions of Monetary Amounts or Fees
+
+**Task Description:** The LLM is presented with customer service query texts. The task is to determine if the text explicitly or implicitly mentions a specific monetary amount, a charge, a fee, or any form of financial transaction cost. The model should output the label `monetary_amount` if such a mention is present, indicating that a financial figure or cost is being discussed. This task is designed to train the model to recognize and focus on the financial aspects and numerical values within queries, which is crucial for accurately distinguishing queries about unexpected charges (like `extra_charge_on_statement`) from other types of inquiries. The model should identify keywords and patterns associated with prices, fees, charges, specific currency amounts (e.g., ""$5"", ""ten pounds"", ""a euro fee""), or general terms like ""cost"" or ""expense"" when referring to a transaction.";14.2;5
+IsTransaction48;"**Description:** This task aims to train the LLM to identify when a customer's query is focused on a specific financial transaction or an event related to money movement. This helps the model recognize the core subject of the query as a financial event, which is foundational for understanding `extra_charge_on_statement`, `declined_card_payment`, and aspects of `compromised_card` (as fraudulent activity often manifests as unrecognized transactions). By learning to spot ""transaction-related"" language (e.g., ""charge,"" ""fee,"" ""payment,"" ""statement,"" ""debit,"" ""credit""), the model can better differentiate these queries from others discussing card delivery or app features.";15.0;6
+app_action_query50;"### Auxiliary Task 3: App Functionality/Capability Inquiry
+
+**Description:** This task focuses on teaching the LLM to identify queries where a user is asking about the capabilities, features, or possible actions they can perform within the application itself. This is particularly relevant for `exchange_via_app` queries, which often involve asking about the app's ability to facilitate currency exchange. By training on this, the model learns to distinguish between general questions and those specifically inquiring about in-app functionality, aiding in the correct classification of `exchange_via_app` and similar future categories.
+
+**Example Task Format:**
+`{text: ""Can I use this app to exchange currencies?"", label: ""app_action_query""}`";14.5;4
+account_activity_inquiry54;"Here is the task description for Auxiliary Task 1:
+
+**Task Description for `account_statement_query`**
+
+This auxiliary task trains the LLM to identify customer queries that revolve around accessing, viewing, or understanding their bank or account statements, transaction history, or general account activity. The purpose is to build a foundational understanding of the semantic space related to reviewing financial records.
+
+By learning to recognize these general `account_statement_query` patterns, the model can better contextualize more specific problem queries like `extra_charge_on_statement` and `compromised_card`. Both of these main categories inherently involve the user looking at or referring to their statement/transactions. This auxiliary task helps the LLM distinguish between a user simply wanting to *see* their statement (general inquiry) versus a user *identifying a problem* within their statement (specific classification target). It teaches the model to key into phrases related to ""statement,"" ""transactions,"" ""activity,"" and ""balance,"" preparing it to then analyze those statements for issues.";14.75;4
+unrecognized_transaction55;"**Task Description for Auxiliary Task: `unrecognized_transaction`**
+
+**Purpose:** This auxiliary task aims to train the LLM to identify when a customer explicitly states they do not recognize or understand a transaction on their account or card. By focusing on the core concept of an unfamiliar or unauthorized transaction, the model learns to detect a crucial signal that directly bridges to both `extra_charge_on_statement` (where the charge is unexpected but might be legitimate) and `compromised_card` (where the charge is genuinely fraudulent). This helps the model differentiate between general inquiries about statements and specific concerns about transactions that the user did not initiate or cannot explain, improving its ability to correctly classify these two distinct, but related, problem categories. The task emphasizes phrases like ""I don't recognize,"" ""What is this charge?"", ""I didn't make this,"" or ""unfamiliar activity.""";14.333333333333334;3

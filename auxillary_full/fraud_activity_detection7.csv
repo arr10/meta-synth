@@ -1,0 +1,101 @@
+text,label
+I need to report several unauthorized transactions on my debit card.,fraud_activity
+My credit card was used without my knowledge for online purchases.,fraud_activity
+I don't recognize a large purchase made yesterday on my account.,fraud_activity
+Someone hacked into my banking app and made transfers.,fraud_activity
+I believe my identity has been stolen and new accounts opened in my name.,fraud_activity
+There are suspicious charges appearing on my latest statement.,fraud_activity
+"My card was stolen last week, and now I see activity I didn't authorize.",fraud_activity
+I received an alert for a transaction I definitely didn't make.,fraud_activity
+This large purchase isn't something I would ever buy; it looks fraudulent.,fraud_activity
+Can you help me dispute these fraudulent charges?,fraud_activity
+My account shows payments to a merchant I've never heard of.,fraud_activity
+I think my card details have been compromised.,fraud_activity
+Someone is using my account to send money without my permission.,fraud_activity
+I just got a notification about a login from an unknown device; I think my account is compromised.,fraud_activity
+These are clearly fraudulent activities on my credit line.,fraud_activity
+I need to block my card immediately due to unauthorized use.,fraud_activity
+"There are multiple small, unrecognized charges popping up daily.",fraud_activity
+I'm reporting a scam where my card was used for a fake service.,fraud_activity
+Someone else has accessed my online banking.,fraud_activity
+My card number was somehow acquired and used for online shopping without my consent.,fraud_activity
+I'm seeing transactions I didn't authorize from an overseas location.,fraud_activity
+"I got an email about a password change I didn't request, and now I can't log in; is my account hacked?",fraud_activity
+A new recurring payment started without my permission.,fraud_activity
+"My wallet was stolen, and I'm seeing transactions on my missing card.",fraud_activity
+"I received a new card, but before I activated it, there were charges on the old one I didn't make.",fraud_activity
+I need to speak to someone about potential identity fraud related to my account.,fraud_activity
+"There's a charge for a product I never ordered, and it looks like fraud.",fraud_activity
+"My card information was exposed in a data breach, and now I'm seeing strange activity.",fraud_activity
+I want to file a report for a suspicious transaction that just occurred.,fraud_activity
+I'm concerned my account security has been breached.,fraud_activity
+Someone made a large cash withdrawal from my account that wasn't me.,fraud_activity
+"I keep getting denied for credit, and I suspect it's due to unauthorized accounts opened in my name.",fraud_activity
+Please investigate these unapproved transactions on my statement.,fraud_activity
+"My card was skimmed, and now I see duplicate fraudulent charges.",fraud_activity
+"I accidentally gave my card details to a phishing scam, and now I see purchases.",fraud_activity
+I'm seeing unusual activity on my joint account that my partner didn't make either.,fraud_activity
+Is there a way to tell if my card has been cloned?,fraud_activity
+"My bank statement shows a charge from a company I've never done business with, and it's large.",fraud_activity
+"I received an alert for a purchase in a city I haven't visited in years, definitely not me.",fraud_activity
+I need to cancel my card and report fraudulent use ASAP.,fraud_activity
+These charges don't reflect my spending habits at all; they must be fraud.,fraud_activity
+"My account was compromised, and money was transferred out without my permission.",fraud_activity
+I think someone accessed my account and changed my contact information.,fraud_activity
+My temporary card was used for a transaction I didn't authorize.,fraud_activity
+I need to dispute a charge that is clearly fraudulent.,fraud_activity
+I'm getting notifications about login attempts from abroad.,fraud_activity
+Someone used my card to make a payment to a utility company I don't use.,fraud_activity
+My account was emptied by an unknown party.,fraud_activity
+I suspect a family member is using my card without permission.,fraud_activity
+I saw a charge for a cryptocurrency purchase I did not make.,fraud_activity
+I want to report an attempted fraudulent transaction that was declined.,fraud_activity
+"My balance is much lower than it should be, and I don't recognize the large withdrawals.",fraud_activity
+"I just received an email confirming an order I never placed, using my card.",fraud_activity
+Help! My card details were stolen.,fraud_activity
+"There's a recurring charge from a streaming service I don't subscribe to, and it's not me.",fraud_activity
+"I'm concerned about a series of small, rapid transactions on my account.",fraud_activity
+"My online shopping account was breached, and my saved card was used.",fraud_activity
+I need to report suspicious activity on my debit account after using an ATM.,fraud_activity
+Someone tried to open a new credit card in my name.,fraud_activity
+I need assistance because my card has been used fraudulently for online gambling.,fraud_activity
+I believe I'm a victim of a phishing scam and my account information has been compromised.,fraud_activity
+There's an unrecognized transaction showing as 'international payment'.,fraud_activity
+My digital wallet had unauthorized charges.,fraud_activity
+I'm calling to report that my credit card number was used for a large flight booking I didn't make.,fraud_activity
+There's a charge from an app store for an app I didn't download.,fraud_activity
+I need to check my current account balance.,not_fraud_activity
+Can you tell me what my credit card limit is?,not_fraud_activity
+"I was charged twice for the same coffee, can you fix this?",not_fraud_activity
+My direct deposit didn't go through today.,not_fraud_activity
+"I lost my debit card, please send me a new one.",not_fraud_activity
+How do I set up a recurring payment for my mortgage?,not_fraud_activity
+"I can't log into my online banking portal, I forgot my password.",not_fraud_activity
+What are the interest rates for a personal loan?,not_fraud_activity
+I need a statement from last year for my taxes.,not_fraud_activity
+Can you explain this service charge on my account?,not_fraud_activity
+I want to apply for a new credit card.,not_fraud_activity
+My card is damaged and the chip isn't working.,not_fraud_activity
+"I made a purchase online, but the item never arrived.",not_fraud_activity
+When is my next credit card payment due?,not_fraud_activity
+I need to update my mailing address.,not_fraud_activity
+What are the fees for international wire transfers?,not_fraud_activity
+I want to increase my overdraft limit.,not_fraud_activity
+Can you help me understand my credit score?,not_fraud_activity
+I'm having trouble linking my external bank account.,not_fraud_activity
+My automatic bill pay didn't go out this month.,not_fraud_activity
+I'm calling about a refund I haven't received yet for a returned item.,not_fraud_activity
+Can I transfer money between my checking and savings accounts?,not_fraud_activity
+What are your branch hours this weekend?,not_fraud_activity
+I accidentally paid the wrong amount on my bill.,not_fraud_activity
+I need to activate my new credit card.,not_fraud_activity
+Can I get a temporary card while I wait for my permanent one?,not_fraud_activity
+I want to close my savings account.,not_fraud_activity
+My login is locked because I entered the wrong password too many times.,not_fraud_activity
+I need to confirm if a payment went through yesterday.,not_fraud_activity
+I have a question about my rewards points.,not_fraud_activity
+I need to change my PIN number for my debit card.,not_fraud_activity
+Where can I find an ATM near me?,not_fraud_activity
+"I'm planning a trip abroad, will my card work there?",not_fraud_activity
+My mobile banking app is crashing.,not_fraud_activity
+How do I check my transaction history online?,not_fraud_activity

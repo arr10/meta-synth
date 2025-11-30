@@ -1,0 +1,6 @@
+text,label
+I found a charge on my recent statement that I did not authorize.,suspicious_activity_reported
+"My debit card was lost or stolen, and I'm worried about unauthorized use.",suspicious_activity_reported
+I need to report what appears to be a scam involving my account.,suspicious_activity_reported
+There are withdrawals from my account that I never made.,suspicious_activity_reported
+Can you help me identify these unknown transactions? I'm concerned about fraud.,suspicious_activity_reported

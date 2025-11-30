@@ -1,0 +1,6 @@
+text,label
+There are some charges on my account that I don't recognize. Was my card compromised?,fraud_activity
+"My credit card was stolen, and I see transactions that I definitely didn't make.",fraud_activity
+I received an alert about unusual activity on my debit card. Should I be worried about fraud?,fraud_activity
+Someone got access to my account and made a payment. How do I report this unauthorized use?,fraud_activity
+I suspect my account security has been breached because there are purchases that aren't mine.,fraud_activity

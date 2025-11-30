@@ -1,0 +1,6 @@
+text,label
+I was unexpectedly charged 15 USD on my last transaction.,currency_mention
+There's a strange €7.50 fee on my monthly bill.,currency_mention
+How much would it cost to send 500 GBP to my friend?,currency_mention
+I need to know the current exchange rate for Yen.,currency_mention
+What was the ¥200 charge for that appeared today?,currency_mention

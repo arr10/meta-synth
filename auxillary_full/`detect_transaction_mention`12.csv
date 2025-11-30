@@ -1,0 +1,112 @@
+text,label
+I need to dispute a charge on my statement.,transaction_mention
+"My last payment didn't go through, can you check?",transaction_mention
+What are the fees associated with international transfers?,transaction_mention
+There's an unexpected debit from my checking account.,transaction_mention
+When will I receive the credit for the returned item?,transaction_mention
+I'd like to request a refund for a service.,transaction_mention
+What was the currency exchange rate for my purchase in Europe?,transaction_mention
+"My balance seems incorrect, can you review the transactions?",transaction_mention
+How do I log in to my online banking?,
+"I forgot my password, how can I reset it?",
+"I made a payment yesterday, has it been processed?",transaction_mention
+Why was I charged twice for the same subscription?,transaction_mention
+Can I set up automatic bill payments?,transaction_mention
+What are your branch locations?,
+I'm looking for information about your savings accounts.,
+"There's an annual fee on my credit card, can it be waived?",transaction_mention
+I need to transfer money to another account.,transaction_mention
+My card was declined when I tried to make a purchase.,transaction_mention
+How can I update my contact information?,
+I received a strange text message about my account.,
+Can you show me my recent charges?,transaction_mention
+"I'm expecting a deposit, has it cleared?",transaction_mention
+What is the daily withdrawal limit?,transaction_mention
+"My statement shows a credit adjustment, what is it for?",transaction_mention
+I want to apply for a new credit card.,
+How do I report a lost or stolen card?,
+"There's a late fee on my mortgage payment, I need to discuss it.",transaction_mention
+I want to convert some CAD to USD.,transaction_mention
+Can you provide a statement of my transactions for the last month?,transaction_mention
+"My app is crashing, can you help?",
+I need to pay my credit card bill.,transaction_mention
+Why did my direct debit fail?,transaction_mention
+"I got a refund notification, but the money isn't in my account.",transaction_mention
+What are the benefits of a premium account?,
+I need to check my account balance.,transaction_mention
+There was a fraudulent charge on my account.,transaction_mention
+When do my monthly payments typically process?,transaction_mention
+I can't access my statements online.,
+Can I get a loan?,
+My account was debited twice for the same purchase.,transaction_mention
+I want to cancel a pending payment.,transaction_mention
+What's the exchange rate for transferring money to India?,transaction_mention
+"I see a foreign transaction fee, why?",transaction_mention
+Is there a fee for using out-of-network ATMs?,transaction_mention
+How do I activate my new card?,
+Can I increase my credit limit?,
+I received an overdraft charge.,transaction_mention
+The merchant promised a full refund but I haven't seen it.,transaction_mention
+I need help understanding my credit score.,
+My recent credit card statement has a high amount.,transaction_mention
+"I'm moving, how do I change my address?",
+How do I make an international payment?,transaction_mention
+I want to check the status of a past transaction.,transaction_mention
+Why was my account frozen?,
+My recent deposit is not reflecting in my balance.,transaction_mention
+Can I get a breakdown of all charges for the month of April?,transaction_mention
+I need to repay an amount I borrowed.,transaction_mention
+What's the current interest rate for savings accounts?,
+There's a recurring charge I want to cancel.,transaction_mention
+My bank reconciliation shows a discrepancy.,transaction_mention
+I need to find out about my insurance policy.,
+Is there a maximum limit for transfers?,transaction_mention
+I want to apply for a personal loan.,
+Can I transfer funds between my accounts?,transaction_mention
+"I see a hold on my account, why?",
+I need a copy of my deposit slip.,transaction_mention
+How do I enable push notifications for transactions?,transaction_mention
+Why was my payment rejected?,transaction_mention
+I want to learn more about investing.,
+My credit card shows an incorrect total for the last cycle.,transaction_mention
+I'm expecting a credit from a cancelled flight.,transaction_mention
+How can I set up direct deposit for my paycheck?,transaction_mention
+What are the requirements for opening a new account?,
+I need to report an unauthorized debit.,transaction_mention
+The amount I was charged is higher than agreed.,transaction_mention
+Can you explain this service charge on my bill?,transaction_mention
+My check deposit hasn't appeared yet.,transaction_mention
+I want to close my account.,
+What are your customer service hours?,
+I've been charged for something I didn't buy.,transaction_mention
+How do I make a one-time payment?,transaction_mention
+I need information about my retirement fund.,
+There's a pending transaction I don't recognize.,transaction_mention
+Can I get a refund for the product I returned?,transaction_mention
+How long does a bank transfer usually take?,transaction_mention
+I want to know my account number.,
+Is there a fee to replace my damaged card?,transaction_mention
+My mobile deposit isn't showing.,transaction_mention
+I received an alert about suspicious account activity.,
+I need to confirm if a certain payment was made.,transaction_mention
+What documents do I need for verification?,
+I see a charge from an unknown merchant.,transaction_mention
+Can I pay my loan early to avoid more interest?,transaction_mention
+I need to send money abroad.,transaction_mention
+"My recent online purchase didn't go through, but I was charged.",transaction_mention
+How do I check my rewards points?,
+There's a transaction fee on my investment account.,transaction_mention
+I want to report an issue with my online banking.,
+When will my balance update after the direct deposit?,transaction_mention
+Can you provide details about my last debit transaction?,transaction_mention
+I am looking for information on credit card security.,
+I need to know the processing time for refunds.,transaction_mention
+There was a currency conversion on my statement I don't recall.,transaction_mention
+Can you help me understand my budget?,
+I received a notification about a large incoming payment.,transaction_mention
+"My statement shows a general adjustment, what's that?",transaction_mention
+How do I dispute a credit report error?,
+I need to ensure my payments are correct.,transaction_mention
+There's a processing fee I wasn't informed about.,transaction_mention
+I want to apply for a joint account.,
+Can I get a detailed list of all transfers in the last quarter?,transaction_mention

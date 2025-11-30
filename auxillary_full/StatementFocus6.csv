@@ -1,0 +1,101 @@
+text,label
+Where can I find my latest credit card statement?,statement_focus
+I need to know my current account balance.,not_statement_focus
+Why is there a charge of $25 on my recent bill?,statement_focus
+How do I change my mailing address for correspondence?,not_statement_focus
+Can you explain the 'Service Fee' listed on my last statement?,statement_focus
+I want to transfer funds between my checking and savings accounts.,not_statement_focus
+I believe there's an error in my transaction history from May.,statement_focus
+What are the current interest rates for your savings accounts?,not_statement_focus
+When will my next monthly statement be generated and available?,statement_focus
+How do I report a lost or stolen debit card?,not_statement_focus
+I'm looking for a breakdown of all my purchases from last month.,statement_focus
+What's the closest bank branch location to my current address?,not_statement_focus
+"My electricity bill seems unusually high this month, can you help me understand why?",statement_focus
+Can I apply to increase my credit card limit?,not_statement_focus
+I can't access my digital statements through the mobile app.,statement_focus
+How do I set up direct deposit for my paycheck?,not_statement_focus
+"There's a duplicate charge on my online statement, could you investigate?",statement_focus
+What are the requirements for opening a new checking account?,not_statement_focus
+I need to review all activity on my account for the past quarter.,statement_focus
+How do I reset my online banking password?,not_statement_focus
+Why was I charged an overdraft fee on my statement?,statement_focus
+What documents do I need to apply for a home loan?,not_statement_focus
+I need a copy of my bank statements from January to March.,statement_focus
+Can I make an international money transfer using your service?,not_statement_focus
+The total amount on my credit card bill doesn't look right.,statement_focus
+What are the benefits of my premium checking account?,not_statement_focus
+I want to understand the interest calculation on my mortgage statement.,statement_focus
+How long does it typically take for a deposited check to clear?,not_statement_focus
+Can you tell me what 'Miscellaneous Debit' means on my statement?,statement_focus
+I'm having trouble logging into my mobile banking app.,not_statement_focus
+I need to reconcile my latest bank statement with my personal records.,statement_focus
+Do you offer any investment advisory services?,not_statement_focus
+Where can I find previous months' transaction lists?,statement_focus
+What are the fees for an early withdrawal from a Certificate of Deposit (CD)?,not_statement_focus
+My statement shows an unauthorized transaction from a merchant I don't recognize.,statement_focus
+How can I apply for a personal loan?,not_statement_focus
+I need a detailed report of all charges from the last six months.,statement_focus
+What time do your branches close on Saturdays?,not_statement_focus
+Can you provide a list of all deposits made into my account last year?,statement_focus
+I want to close my savings account.,not_statement_focus
+"I received a notification about an unusual charge on my statement, what is it?",statement_focus
+"How do I update my contact information, including phone number and email?",not_statement_focus
+"My bill has a late payment fee, but I'm sure I paid on time.",statement_focus
+What are the current exchange rates for USD to EUR?,not_statement_focus
+I'm trying to figure out why my current statement balance is so high.,statement_focus
+Can I get an extension on my credit card payment due date?,not_statement_focus
+Can I get my monthly statements sent to a different email address?,statement_focus
+What's the routing number for my bank?,not_statement_focus
+I dispute a charge on my latest account activity summary.,statement_focus
+How do I enable push notifications for account alerts?,not_statement_focus
+I want to know if a specific transaction from last week has posted to my account statement yet.,statement_focus
+What are the requirements to be eligible for your credit card?,not_statement_focus
+"There's an 'Annual Fee' on my current credit card statement, can you waive it?",statement_focus
+How can I check the status of my recent dispute?,not_statement_focus
+I need to view my complete transaction history for tax purposes.,statement_focus
+Do you offer any special promotions for new customers?,not_statement_focus
+"My statement shows a payment was returned, why did that happen?",statement_focus
+What's the maximum amount I can withdraw from an ATM per day?,not_statement_focus
+Can you help me understand the charges listed on my bank statement?,statement_focus
+How do I report fraud on my account?,not_statement_focus
+I'd like to get my statements delivered by mail instead of online.,statement_focus
+What are the benefits of opening a joint account?,not_statement_focus
+I found an unfamiliar transaction on my financial statement.,statement_focus
+Can I link my external bank accounts to this platform?,not_statement_focus
+Why is there an 'international transaction fee' on my bill?,statement_focus
+How do I add a new authorized user to my credit card account?,not_statement_focus
+I need a summary of my account activity for the last 90 days.,statement_focus
+What happens if I miss a payment on my loan?,not_statement_focus
+My statement balance doesn't reflect my recent payment.,statement_focus
+Do you have a mobile application for banking?,not_statement_focus
+Can you provide an itemized list of charges from my last statement?,statement_focus
+How can I protect myself from identity theft?,not_statement_focus
+I'm trying to find information about my insurance policy bill.,statement_focus
+What is the cut-off time for same-day transfers?,not_statement_focus
+I have questions about a specific charge shown on my account statement.,statement_focus
+Can I schedule recurring payments for my bills through your service?,not_statement_focus
+I received an email about my e-statement being ready to view.,statement_focus
+What's the difference between a debit card and a credit card?,not_statement_focus
+I need to download all my previous statements for record-keeping.,statement_focus
+How do I dispute a fraudulent charge?,not_statement_focus
+"My statement shows a fee for insufficient funds, but I had money in the account.",statement_focus
+What are the requirements for a business checking account?,not_statement_focus
+I need clarification on the payment due date listed on my bill.,statement_focus
+Can I make a cash deposit at an ATM?,not_statement_focus
+I want to understand the breakdown of my credit card charges.,statement_focus
+How do I enable two-factor authentication for my online account?,not_statement_focus
+"My monthly account statement arrived, and I have questions about the balance.",statement_focus
+What are the benefits of signing up for paperless statements?,statement_focus
+How can I check my FICO credit score?,not_statement_focus
+I received a notification about an unknown charge appearing on my statement.,statement_focus
+What should I do if my payment was declined?,not_statement_focus
+Can you retrieve my transaction record for a specific date range?,statement_focus
+Are there any fees associated with international transactions?,not_statement_focus
+"My statement indicates a refund was processed, but I haven't received it yet.",statement_focus
+How do I add beneficiaries to my account?,not_statement_focus
+I'm trying to reconcile my monthly expenditures with my statement.,statement_focus
+What happens to my account if I move to a different country?,not_statement_focus
+I need to verify the amount of a payment posted to my statement on the 10th.,statement_focus
+What's the best way to contact your fraud department?,not_statement_focus
+"My credit card statement has an 'annual percentage rate' listed, can you explain it?",statement_focus

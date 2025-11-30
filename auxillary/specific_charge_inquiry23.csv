@@ -1,0 +1,6 @@
+text,label
+Why did I get a $7 charge on my latest bill?,query_about_specific_charge
+I'm confused by a 4.99€ fee on my monthly statement.,query_about_specific_charge
+Can you explain the transaction for 12 GBP that appeared yesterday?,query_about_specific_charge
+I need to know what this 0.89 USD debit is for.,query_about_specific_charge
+"There's an unexplained 25 AUD charge, could you look into it?",query_about_specific_charge

@@ -1,0 +1,6 @@
+text,label
+I'm reviewing my bank statement and saw an unfamiliar debit.,mentions_financial_record
+Can you explain the pending transactions on my account activity?,mentions_financial_record
+Where can I find a detailed breakdown of my recent charges?,mentions_financial_record
+My monthly bill shows a payment I don't recall making.,mentions_financial_record
+I need to check the history of my spending for the last quarter.,mentions_financial_record

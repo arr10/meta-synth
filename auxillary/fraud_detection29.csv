@@ -1,0 +1,6 @@
+text,label
+I see several transactions on my statement that I don't recognize at all.,reports_suspicious_activity
+"My debit card was lost yesterday, and now there are charges I didn't make.",reports_suspicious_activity
+Someone gained unauthorized access to my account and made a transfer.,reports_suspicious_activity
+"I need to freeze my card, I suspect someone has stolen my details.",reports_suspicious_activity
+Are these purchases legitimate? I'm worried my card information was leaked.,reports_suspicious_activity

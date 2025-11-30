@@ -1,0 +1,101 @@
+text,label
+How do I swap my euros for dollars?,currency_conversion_request
+I want to change my GBP to JPY.,currency_conversion_request
+What is the current exchange rate for different currencies?,currency_conversion_request
+Can I convert my Canadian Dollars to US Dollars?,currency_conversion_request
+What's the best way to exchange money for my trip to Mexico?,currency_conversion_request
+I need to exchange Yen for Australian Dollars.,currency_conversion_request
+How much is 500 Euros in Pounds Sterling today?,currency_conversion_request
+Tell me about foreign currency exchange services.,currency_conversion_request
+Where can I convert my leftover travel cash?,currency_conversion_request
+What are the fees for currency conversion?,currency_conversion_request
+"I want to send money to India, will it be converted to INR?",currency_conversion_request
+What's the current exchange rate between Brazilian Real and US Dollar?,currency_conversion_request
+I'm looking to convert some Euros back to Sterling.,currency_conversion_request
+How do I use the app to change currency?,currency_conversion_request
+Explain how currency conversion works.,currency_conversion_request
+Do you offer competitive exchange rates?,currency_conversion_request
+"I have some leftover rupees, can I convert them?",currency_conversion_request
+What's the best time to exchange money?,currency_conversion_request
+How much is 1 euro in pounds today?,currency_conversion_request
+Can I convert my wallet's balance to a different currency?,currency_conversion_request
+"I need to transfer funds to Canada, how will the exchange rate apply?",currency_conversion_request
+What's your commission for currency exchanges?,currency_conversion_request
+I want to change some currency for my holiday.,currency_conversion_request
+Where can I find the live exchange rates for all major currencies?,currency_conversion_request
+Is it possible to convert my local currency to foreign currency online?,currency_conversion_request
+I'm interested in converting USD to AUD.,currency_conversion_request
+How much would 1000 THB be in my local currency?,currency_conversion_request
+I need to convert money before traveling to China.,currency_conversion_request
+What's the daily limit for currency exchange?,currency_conversion_request
+Can I get a better rate if I exchange a larger amount?,currency_conversion_request
+I'm looking for the currency converter tool.,currency_conversion_request
+How do I know the exact amount I'll receive after conversion?,currency_conversion_request
+What currencies can I convert with you?,currency_conversion_request
+I want to convert my savings from USD to EUR.,currency_conversion_request
+Do you offer real-time currency conversion?,currency_conversion_request
+I need to know the exchange rate for Swiss Francs.,currency_conversion_request
+How can I lock in an exchange rate?,currency_conversion_request
+What's the difference between spot and forward rates?,currency_conversion_request
+Can I convert foreign banknotes?,currency_conversion_request
+"I'm planning to move abroad, what about currency conversion for my funds?",currency_conversion_request
+How do you calculate the exchange rate for international transfers?,currency_conversion_request
+I want to buy some foreign currency.,currency_conversion_request
+I need to sell my foreign currency.,currency_conversion_request
+What's the rate for converting pounds to yen?,currency_conversion_request
+Can I convert multiple currencies at once?,currency_conversion_request
+Where can I find historical exchange rates?,currency_conversion_request
+How much does it cost to convert USD to MXN?,currency_conversion_request
+I want to change some foreign currency back to my home currency.,currency_conversion_request
+Tell me about your foreign currency account options for conversions.,currency_conversion_request
+What is the margin you apply on exchange rates?,currency_conversion_request
+How do I change my currency for an upcoming trip?,currency_conversion_request
+Is there a maximum amount I can convert?,currency_conversion_request
+Can I get an alert when a specific exchange rate is reached?,currency_conversion_request
+What are the common pitfalls in currency exchange?,currency_conversion_request
+I need to convert some money for a business trip.,currency_conversion_request
+How do I ensure I get the best exchange rate?,currency_conversion_request
+Can I convert funds from my foreign currency account to my domestic one?,currency_conversion_request
+What is the going rate for 1 USD in PHP?,currency_conversion_request
+I am looking for a tool to estimate currency conversions.,currency_conversion_request
+Do I need to be a customer to exchange currency?,currency_conversion_request
+What's my account balance?,not_currency_conversion_request
+My debit card isn't working.,not_currency_conversion_request
+How do I reset my password?,not_currency_conversion_request
+Can I apply for a loan?,not_currency_conversion_request
+What are your branch opening hours?,not_currency_conversion_request
+I need to dispute a transaction on my statement.,not_currency_conversion_request
+Where is the nearest ATM?,not_currency_conversion_request
+How do I check my transaction history?,not_currency_conversion_request
+Can I transfer money to another account?,not_currency_conversion_request
+I forgot my username for online banking.,not_currency_conversion_request
+What's the current interest rate on savings?,not_currency_conversion_request
+"My app crashed, what should I do?",not_currency_conversion_request
+How do I set up direct deposit?,not_currency_conversion_request
+I want to close my account.,not_currency_conversion_request
+What are the benefits of a premium account?,not_currency_conversion_request
+Can I freeze my card if I lose it?,not_currency_conversion_request
+How do I pay my credit card bill?,not_currency_conversion_request
+I need to speak to someone about my mortgage.,not_currency_conversion_request
+What's the status of my recent transfer?,not_currency_conversion_request
+How do I update my contact information?,not_currency_conversion_request
+What's the value of Bitcoin today?,not_currency_conversion_request
+I want to transfer money from my checking to savings account.,not_currency_conversion_request
+Can I get a new card?,not_currency_conversion_request
+How do I apply for a business account?,not_currency_conversion_request
+I have a question about my statement.,not_currency_conversion_request
+My online banking is not working.,not_currency_conversion_request
+Can you help me set up a recurring payment?,not_currency_conversion_request
+What documents do I need to open an account?,not_currency_conversion_request
+I received an SMS about a suspicious transaction.,not_currency_conversion_request
+How can I block a fraudulent payment?,not_currency_conversion_request
+I need assistance with a wire transfer.,not_currency_conversion_request
+What are your fees for international transfers?,not_currency_conversion_request
+How do I add a payee to my online banking?,not_currency_conversion_request
+Can I get a copy of my bank statement?,not_currency_conversion_request
+My credit card application status?,not_currency_conversion_request
+What's the minimum balance for my account?,not_currency_conversion_request
+How to activate my new debit card?,not_currency_conversion_request
+I want to report a lost or stolen card.,not_currency_conversion_request
+Can I get advice on investments?,not_currency_conversion_request
+How do I update my notification preferences?,not_currency_conversion_request

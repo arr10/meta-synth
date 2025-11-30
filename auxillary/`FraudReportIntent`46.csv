@@ -1,0 +1,6 @@
+text,label
+Someone used my card to make a purchase I didn't authorize.,unauthorized_activity
+I see transactions on my account that I don't recognize.,unauthorized_activity
+My debit card was stolen and now there are charges on it.,unauthorized_activity
+How do I dispute a fraudulent transaction?,unauthorized_activity
+I think my account has been hacked and someone is using my money.,unauthorized_activity

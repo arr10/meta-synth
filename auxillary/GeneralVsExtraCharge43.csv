@@ -1,0 +1,6 @@
+text,label
+I see a charge from 'Netflix' on my statement. Could you tell me which subscription plan this relates to?,transaction_query
+What was the total amount I spent at 'Grocery Mart' yesterday?,transaction_query
+Can you confirm the details of a recent payment made to 'Utility Company'?,transaction_query
+I noticed a debit from 'Apple' on June 1st. What was that transaction for?,transaction_query
+"Could you list my last three outgoing transactions, please?",transaction_query

@@ -1,0 +1,6 @@
+text,label
+"My account shows a debit of $5, what is this for?",transaction_query
+I tried to buy something online and the payment was refused.,transaction_query
+There's a charge on my statement I don't recognize from amazon.,transaction_query
+Can you tell me why my last payment didn't go through?,transaction_query
+"I see a pending transaction for £10, what is that?",transaction_query

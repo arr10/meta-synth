@@ -1,0 +1,6 @@
+text,label
+What was the amount of my last transaction?,financial_charge_or_transaction
+I haven't received my refund yet.,financial_charge_or_transaction
+Is there a monthly maintenance fee for this account?,financial_charge_or_transaction
+My direct debit for electricity didn't go through.,financial_charge_or_transaction
+Can you confirm the payment I made yesterday?,financial_charge_or_transaction

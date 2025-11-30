@@ -1,0 +1,101 @@
+text,label
+How do I change my profile picture in the app?,app_feature_query
+Can I view my monthly statements directly on the platform?,app_feature_query
+Where is the option to enable dark mode in the app's settings?,app_feature_query
+"I want to transfer funds, how do I do that using the mobile application?",app_feature_query
+Is it possible to set up recurring payments through this service?,app_feature_query
+How do I add a new recipient for payments within the app?,app_feature_query
+Where can I find my transaction history on the website?,app_feature_query
+Can I block a specific merchant using the app's features?,app_feature_query
+How do I activate my new debit card using the application?,app_feature_query
+Is there a way to export my financial data from the platform?,app_feature_query
+How do I report an unrecognized transaction within the app?,app_feature_query
+Can I adjust my notification preferences in the app settings?,app_feature_query
+Where do I manage my connected accounts on the portal?,app_feature_query
+How do I apply for a personal loan using the app?,app_feature_query
+Is it possible to share my account details securely through the app?,app_feature_query
+How do I update my contact information on the digital platform?,app_feature_query
+Can I see a breakdown of my spending categories in the app?,app_feature_query
+Where do I go to view my credit score within the application?,app_feature_query
+How do I enable two-factor authentication for my account in the app?,app_feature_query
+Can I exchange currency within your app?,app_feature_query
+How do I top up my mobile phone credit using this application?,app_feature_query
+Is there a feature to split bills with friends in the app?,app_feature_query
+How do I link an external bank account to my profile in the app?,app_feature_query
+Where is the budget tracking tool located in the app?,app_feature_query
+Can I temporarily freeze my card using the mobile app?,app_feature_query
+How do I send a payment request to another user on the platform?,app_feature_query
+Is it possible to schedule future payments via the app?,app_feature_query
+How do I set spending limits for my card in the application?,app_feature_query
+Where can I find information about my current investments in the app?,app_feature_query
+Can I change my primary currency account using the platform?,app_feature_query
+How do I dispute a transaction through the app's support section?,app_feature_query
+Is there an in-app chat support feature?,app_feature_query
+How do I customize my dashboard view in the application?,app_feature_query
+Can I get a digital receipt for my transactions from the app?,app_feature_query
+How do I find ATMs near me using the app's map feature?,app_feature_query
+Where do I manage my subscriptions linked to this platform?,app_feature_query
+How do I sign up for push notifications from the app?,app_feature_query
+Can I view statements for multiple accounts within the same app login?,app_feature_query
+How do I close my account using the online portal?,app_feature_query
+Is it possible to set up travel notifications in the app?,app_feature_query
+How do I reorder a new card through the application?,app_feature_query
+Can I add beneficiaries for transfers within the app?,app_feature_query
+How do I enable biometric login (fingerprint/face ID) for the app?,app_feature_query
+Where is the option to report a technical issue in the app?,app_feature_query
+How do I access my rewards points balance on the platform?,app_feature_query
+Can I view pending transactions in the app?,app_feature_query
+How do I generate a QR code for receiving payments in the application?,app_feature_query
+Is there a way to link loyalty cards to my app profile?,app_feature_query
+How do I set up a savings goal within the app?,app_feature_query
+Can I get instant spending notifications on my phone via the app?,app_feature_query
+How do I check the status of a past transfer in the app?,app_feature_query
+Where can I find the terms and conditions for using this app?,app_feature_query
+How do I enable push notifications for spending alerts in the app?,app_feature_query
+Can I see my account details within the app?,app_feature_query
+How do I initiate a currency exchange through the application?,app_feature_query
+Is there a way to add tags or notes to my transactions in the platform?,app_feature_query
+How do I schedule an appointment with an advisor using the app?,app_feature_query
+Where can I find the FAQ section inside the app?,app_feature_query
+How do I delete my account from the mobile application?,app_feature_query
+Can I scan a QR code to pay using your app?,app_feature_query
+What is the average interest rate for personal loans?,not_app_feature_query
+My app crashed and won't open.,not_app_feature_query
+"I forgot my password, what should I do?",not_app_feature_query
+What are your customer service hours?,not_app_feature_query
+I need to speak to someone about a suspicious transaction.,not_app_feature_query
+What is the definition of a beneficiary?,not_app_feature_query
+Are there any fees associated with international transfers?,not_app_feature_query
+What are the current market exchange rates for USD to EUR?,not_app_feature_query
+Tell me about your company's history.,not_app_feature_query
+"I received a phishing email, what should I do?",not_app_feature_query
+What is the best way to save money for retirement?,not_app_feature_query
+Is the app compatible with my Android phone version 10?,not_app_feature_query
+I didn't receive an SMS verification code.,not_app_feature_query
+What is cryptocurrency?,not_app_feature_query
+When is the next public holiday in the UK?,not_app_feature_query
+What are the benefits of using a digital wallet?,not_app_feature_query
+Can I apply for a credit card through another bank?,not_app_feature_query
+"My card was lost, how do I get a new one?",not_app_feature_query
+What are the best practices for online security?,not_app_feature_query
+How long does a bank transfer typically take?,not_app_feature_query
+What is a credit score?,not_app_feature_query
+I can't log into my account.,not_app_feature_query
+What are the requirements for opening an account with you?,not_app_feature_query
+Is your company regulated?,not_app_feature_query
+My bank statement has an error.,not_app_feature_query
+What is the difference between a debit and credit card?,not_app_feature_query
+Can I get a physical card with this service?,not_app_feature_query
+What languages does your support team speak?,not_app_feature_query
+How do I protect myself from scams?,not_app_feature_query
+What kind of documentation do I need for identity verification?,not_app_feature_query
+I want to close my account.,not_app_feature_query
+Is there a physical branch I can visit?,not_app_feature_query
+What are your terms and conditions for new users?,not_app_feature_query
+I have feedback about the app design.,not_app_feature_query
+What are the benefits of setting spending limits?,not_app_feature_query
+My transaction failed.,not_app_feature_query
+How does cashback work?,not_app_feature_query
+What documents are needed for currency exchange?,not_app_feature_query
+I received an alert about unusual activity.,not_app_feature_query
+What is a budgeting tool?,not_app_feature_query

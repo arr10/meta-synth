@@ -1,0 +1,6 @@
+text,label
+Why is there an unknown charge on my bank statement?,transaction_issue
+My card was used without my permission for an online purchase.,transaction_issue
+"My payment for the gas station was declined, but I have money.",transaction_issue
+I want to report suspicious activity on my credit card.,transaction_issue
+There's a pending transaction that I didn't authorize.,transaction_issue

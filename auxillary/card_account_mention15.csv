@@ -1,0 +1,6 @@
+text,label
+I want to see my current balance.,mentions_card_account
+My debit card was swallowed by the ATM.,mentions_card_account
+Could you please help me understand my latest statement?,mentions_card_account
+I need to dispute a transaction on my account.,mentions_card_account
+Is my credit card still valid for online purchases?,mentions_card_account

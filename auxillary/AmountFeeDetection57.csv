@@ -1,0 +1,6 @@
+text,label
+I noticed an unfamiliar charge of $15 on my recent activity statement.,query_about_amount_or_fee
+What are the fees associated with an international transfer?,query_about_amount_or_fee
+Could you tell me the current exchange rate for JPY to EUR?,query_about_amount_or_fee
+Why was I charged an overdraft fee last month?,query_about_amount_or_fee
+I need to understand the cost breakdown for this subscription.,query_about_amount_or_fee

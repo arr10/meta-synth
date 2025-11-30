@@ -1,0 +1,111 @@
+text,label
+There's a $5 charge I don't understand.,query_about_specific_charge
+Can you tell me about the 10-pound fee?,query_about_specific_charge
+What is this 2.99 debit on my statement?,query_about_specific_charge
+I see an unfamiliar transaction for 15 EUR.,query_about_specific_charge
+I was charged $25 and I don't know why.,query_about_specific_charge
+Could you explain the £7.50 fee on my account?,query_about_specific_charge
+Why is there a 12.34 EUR debit from my last transaction list?,query_about_specific_charge
+I'd like to dispute a charge of $49.99.,query_about_specific_charge
+There's an unexpected charge of 35 AUD on my bill.,query_about_specific_charge
+What's the meaning of this 1.50 SEK debit?,query_about_specific_charge
+Could you clarify the transaction for 123.45 CAD on my statement?,query_about_specific_charge
+I need more information about the 9.99 USD fee applied yesterday.,query_about_specific_charge
+This 50 pence charge seems incorrect.,query_about_specific_charge
+Why was I charged 5 EUR for something I didn't purchase?,query_about_specific_charge
+I don't recognize the $7.00 amount deducted from my account.,query_about_specific_charge
+Can you look into the £2.99 item on my recent activity?,query_about_specific_charge
+"Explain the 18.00 EUR charge, please.",query_about_specific_charge
+There's a suspicious debit of 22.50 USD.,query_about_specific_charge
+I'm querying a 60 AUD fee from last month.,query_about_specific_charge
+What's this 3.75 ZAR charge for?,query_about_specific_charge
+My statement shows a 75.00 NZD transaction I can't place.,query_about_specific_charge
+I think there's a mistake with a 14.99 GBP charge.,query_about_specific_charge
+Could you tell me why I incurred a 1.00 USD fee?,query_about_specific_charge
+I need an explanation for the 30 EUR deduction.,query_about_specific_charge
+There's a charge of 8.99 CAD that looks wrong.,query_about_specific_charge
+Please investigate a 11.25 CHF debit on my record.,query_about_specific_charge
+I'm questioning a 200 JPY charge on my latest statement.,query_about_specific_charge
+What is the 0.75 USD transaction shown on my account?,query_about_specific_charge
+I want to know about the 4.95 GBP charge from yesterday.,query_about_specific_charge
+This 50 EUR fee is a surprise.,query_about_specific_charge
+There's a $19.99 charge that I believe is fraudulent.,query_about_specific_charge
+Could you provide details for the £3.50 charge?,query_about_specific_charge
+I'm confused by a 25.00 EUR debit on my account summary.,query_about_specific_charge
+Explain this 120 USD transaction please.,query_about_specific_charge
+I don't recall authorizing a 55 AUD charge.,query_about_specific_charge
+What is this 8.00 CHF fee on my statement?,query_about_specific_charge
+I need to understand the 2.25 NZD debit.,query_about_specific_charge
+There's an item for 10 GBP that I need clarified.,query_about_specific_charge
+Why was a 3.00 USD service charge applied?,query_about_specific_charge
+Can you investigate the 7.99 EUR charge showing up?,query_about_specific_charge
+I see a 1.99 CAD transaction I'm unfamiliar with.,query_about_specific_charge
+I'd like to challenge a 1500 JPY fee.,query_about_specific_charge
+What's the reason for the 0.50 USD charge?,query_about_specific_charge
+My statement has a £12.00 deduction that I don't recognize.,query_about_specific_charge
+Please explain the 6.50 EUR cost.,query_about_specific_charge
+I have an inquiry about a $39.99 charge.,query_about_specific_charge
+There's a 100 AUD transaction on my account history I need help with.,query_about_specific_charge
+What is this 4.00 SEK debit that appeared?,query_about_specific_charge
+I need to know more about the 25.50 CAD fee.,query_about_specific_charge
+Why was there a 2.00 CHF charge on my last bill?,query_about_specific_charge
+I'm disputing a 299.99 USD amount on my statement.,query_about_specific_charge
+Can you clarify the £1.75 charge from last week?,query_about_specific_charge
+I found a 40 EUR charge that I didn't make.,query_about_specific_charge
+What exactly is the 18.50 NZD debit for?,query_about_specific_charge
+"There's a 7.00 ZAR fee on my account, can you explain?",query_about_specific_charge
+I need details about the 19.99 GBP transaction.,query_about_specific_charge
+This 0.99 USD charge is unfamiliar.,query_about_specific_charge
+Why was I charged 500 JPY today?,query_about_specific_charge
+Could you investigate the $6.99 charge?,query_about_specific_charge
+I'm questioning the 11.00 EUR debit on my records.,query_about_specific_charge
+There's an item for £20.00 that I don't understand.,query_about_specific_charge
+What's the purpose of the 88 AUD fee?,query_about_specific_charge
+Can you explain the 3.20 CAD charge on my statement?,query_about_specific_charge
+I want to dispute the 1.25 CHF debit.,query_about_specific_charge
+Please provide information on the 100.00 USD transaction.,query_about_specific_charge
+There's a 15 EUR charge that isn't mine.,query_about_specific_charge
+I need help with a £4.00 processing fee.,query_about_specific_charge
+What is this 2.50 ZAR deduction?,query_about_specific_charge
+I see an unrecognised transaction of 220.00 JPY.,query_about_specific_charge
+Could you tell me about the 0.25 USD fee?,query_about_specific_charge
+Why was a 16.99 GBP amount taken from my account?,query_about_specific_charge
+I'm trying to figure out a 5.00 EUR charge.,query_about_specific_charge
+There's a $1.50 charge I'd like to clarify.,query_about_specific_charge
+Can you explain the £0.99 fee on my recent activity?,query_about_specific_charge
+What is this 33.33 AUD debit that appeared?,query_about_specific_charge
+I need to query a 12.00 CAD transaction.,query_about_specific_charge
+This 7.75 CHF charge seems wrong.,query_about_specific_charge
+I need an explanation for the 2.50 SEK debit.,query_about_specific_charge
+Why was there a 199.00 USD charge?,query_about_specific_charge
+There's a 9.00 EUR fee I'm unfamiliar with.,query_about_specific_charge
+Could you investigate the £30.00 charge on my statement?,query_about_specific_charge
+I'm disputing a 4.50 NZD deduction.,query_about_specific_charge
+What's the reason for the 1.00 ZAR charge?,query_about_specific_charge
+My account shows a 900 JPY transaction I don't recognize.,query_about_specific_charge
+I want to know about the 22.00 USD charge from last week.,query_about_specific_charge
+Please explain the 14.00 EUR fee.,query_about_specific_charge
+I have a query about a £50.00 debit.,query_about_specific_charge
+There's an unexpected charge of 7.99 AUD.,query_about_specific_charge
+Can you provide details for the 2.99 CAD transaction?,query_about_specific_charge
+I'm questioning a 13.00 CHF charge on my bill.,query_about_specific_charge
+What is this 0.10 SEK fee for?,query_about_specific_charge
+I need help understanding a $75.00 deduction.,query_about_specific_charge
+There's a 2.00 EUR charge I'd like to dispute.,query_about_specific_charge
+Could you clarify the 16.00 GBP amount on my account?,query_about_specific_charge
+Why was I charged 550 JPY?,query_about_specific_charge
+I don't recognize the 17.50 USD transaction.,query_about_specific_charge
+What's the meaning of this £1.00 admin fee?,query_about_specific_charge
+I need more information about the 6.00 EUR debit.,query_about_specific_charge
+There's a $1.99 charge that I didn't authorize.,query_about_specific_charge
+Can you investigate a 20 AUD fee?,query_about_specific_charge
+This 8.50 CAD transaction seems incorrect.,query_about_specific_charge
+I'm querying a 0.70 ZAR charge.,query_about_specific_charge
+What is the 2.99 NZD item on my statement?,query_about_specific_charge
+Please explain the 12.30 CHF debit.,query_about_specific_charge
+I have an inquiry regarding a 400 JPY charge.,query_about_specific_charge
+Why was a 2.75 USD processing fee applied?,query_about_specific_charge
+There's a 21.00 EUR charge I need details on.,query_about_specific_charge
+I want to clarify the £8.99 amount taken.,query_about_specific_charge
+What is the reason for this 0.50 AUD fee?,query_about_specific_charge
+I need to understand the 11.11 CAD debit on my account.,query_about_specific_charge

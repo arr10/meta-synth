@@ -1,0 +1,6 @@
+text,label
+What was the payment for that just cleared on my account?,query_about_charge
+Can you explain why money left my account today?,query_about_charge
+"I see a pending transaction for £20, what is that?",query_about_charge
+"Tell me about my recent account activity, please.",query_about_charge
+"There's a debit of $5 on my card, what's it for?",query_about_charge

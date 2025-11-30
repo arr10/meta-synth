@@ -1,0 +1,6 @@
+text,label
+There's a payment on my statement that I don't remember making.,unrecognized_transaction
+What is this $5.99 charge from 'XYZ Services'? I never signed up for that.,unrecognized_transaction
+"I see an unfamiliar transaction for £25.00, can you tell me more about it?",unrecognized_transaction
+My account shows activity I didn't authorize.,unrecognized_transaction
+I need to dispute a transaction because I have no idea what it is.,unrecognized_transaction

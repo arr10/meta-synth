@@ -1,0 +1,6 @@
+text,label
+I'd like to convert my Australian dollars to US dollars.,currency_conversion_request
+What's the process for exchanging currency through your service?,currency_conversion_request
+How can I change my Yen into Euros?,currency_conversion_request
+Are there any limits on how much currency I can convert?,currency_conversion_request
+I need to swap my local currency for an international one.,currency_conversion_request

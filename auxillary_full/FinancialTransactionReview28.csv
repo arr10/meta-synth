@@ -1,0 +1,101 @@
+text,label
+"I see a charge for $55.99 from 'Global Services' on my latest statement, but I don't recognize it. Can you explain what it is?",inquire_review_financial_transaction
+My recent bill has an extra fee listed. What is the 'Service Enhancement Fee' for?,inquire_review_financial_transaction
+I was charged twice for my subscription last month. Can you verify and correct this?,inquire_review_financial_transaction
+"I made a payment of $150 yesterday, but it's not showing up in my account yet. Has it been processed?",inquire_review_financial_transaction
+There's a pending transaction for $75.00 from 'Online Retailer X'. I cancelled that order. Why is it still showing?,inquire_review_financial_transaction
+Can you look into why my direct deposit from my employer hasn't appeared today?,inquire_review_financial_transaction
+My account shows a withdrawal of $200 from an ATM in a city I wasn't in. Is this legitimate?,inquire_review_financial_transaction
+I was expecting a refund of $89.99 for a returned item. When will that reflect in my balance?,inquire_review_financial_transaction
+The amount debited for my utility bill seems higher than usual. Can you check the transaction details?,inquire_review_financial_transaction
+Why was I charged an overdraft fee when I had sufficient funds?,inquire_review_financial_transaction
+"I transferred $500 to my savings account three days ago, but it's still not showing there. What's the hold-up?",inquire_review_financial_transaction
+My statement shows a fee for 'Foreign Transaction'. I haven't used my card internationally. Can you clarify?,inquire_review_financial_transaction
+Did my payment for invoice #12345 go through successfully on October 26th?,inquire_review_financial_transaction
+I received an alert for a purchase of $120 from an unknown vendor. Can you explain this transaction?,inquire_review_financial_transaction
+There's a charge of $15.00 that I don't remember authorizing. Can you provide more details about it?,inquire_review_financial_transaction
+I paid my credit card bill last week. Why is there still a 'late payment fee' on my statement?,inquire_review_financial_transaction
+"My recurring monthly payment for 'Software Pro' is usually $10, but this month it was $12. Why the increase?",inquire_review_financial_transaction
+I deposited a check on Monday. Is it available for use yet?,inquire_review_financial_transaction
+Can you investigate a suspicious charge of $45.99 from 'XYZ Co.'?,inquire_review_financial_transaction
+My last statement has an item labeled 'Misc. Debit'. What does that refer to?,inquire_review_financial_transaction
+I was charged an ATM fee even though I used an in-network ATM. Can you check this?,inquire_review_financial_transaction
+The amount of my most recent payment to you seems incorrect on my statement. Could you verify it?,inquire_review_financial_transaction
+"I cancelled a service last month, but I still see a charge for it this month. Why?",inquire_review_financial_transaction
+Is the $30 'account maintenance fee' on my current statement standard?,inquire_review_financial_transaction
+"I made an online purchase for $250.00, but my card was declined, yet I see a pending charge. What's happening?",inquire_review_financial_transaction
+My last two credit card statements show identical charges from 'Restaurant Delight'. Was one a duplicate?,inquire_review_financial_transaction
+I returned an item to a store and was promised a refund. My account hasn't been credited yet. Can you check the status?,inquire_review_financial_transaction
+There's a $7.99 charge from 'App Store Purchases' that I don't recall making. What is it for?,inquire_review_financial_transaction
+"I set up an automatic payment for my loan, but I think it failed. Can you confirm the status of my recent payment?",inquire_review_financial_transaction
+Why is there an 'annual fee' on my credit card when it's supposed to be a no-annual-fee card?,inquire_review_financial_transaction
+"My direct debit for my gym membership bounced, but I had enough funds. Can you explain the reason?",inquire_review_financial_transaction
+"I sent money to a friend via your transfer service, but they haven't received it. Has the transfer completed?",inquire_review_financial_transaction
+Can you provide details about the $19.99 charge from 'StreamIt Entertainment' on my statement dated November 1st?,inquire_review_financial_transaction
+There's a small charge labeled 'Test Transaction' on my account. Is this legitimate or fraudulent?,inquire_review_financial_transaction
+"I made a cash deposit at an ATM, but the amount showing in my account is less than what I deposited. Can you investigate?",inquire_review_financial_transaction
+Why was there a 'return item fee' when the check I deposited was valid?,inquire_review_financial_transaction
+I initiated a bill payment five days ago. Is it still pending or has it been sent?,inquire_review_financial_transaction
+"My statement shows a credit for $150, but I was expecting a credit for $200. Is there a discrepancy?",inquire_review_financial_transaction
+I see a charge from 'RideShare Co.' for a trip I didn't take. Can you dispute this transaction?,inquire_review_financial_transaction
+What is the reason for the 'monthly service charge' on my checking account?,inquire_review_financial_transaction
+I have a pending withdrawal request for $100. Has it been approved and processed?,inquire_review_financial_transaction
+Can you clarify the purpose of the 'Miscellaneous Payment' entry on my recent transaction history?,inquire_review_financial_transaction
+My rent payment was debited twice this month. Please investigate and reverse one charge.,inquire_review_financial_transaction
+I received a notification about an international purchase of $80. I am currently in my home country and did not make this purchase. Can you review this transaction?,inquire_review_financial_transaction
+Why is there a 'cash advance fee' when I only used my credit card for a regular purchase?,inquire_review_financial_transaction
+I made a payment on my loan account yesterday. Can you confirm it was applied correctly?,inquire_review_financial_transaction
+The credit for my returned merchandise still hasn't appeared. It was processed last week.,inquire_review_financial_transaction
+There's a charge of $2.50 from 'ATM Withdrawal Fee'. I thought I was using a fee-free ATM.,inquire_review_financial_transaction
+Can you tell me more about the transaction listed as 'POS Purchase - Groceries' for $78.12 on November 5th?,inquire_review_financial_transaction
+My automatic loan payment didn't go through. What was the reason for the failed transaction?,inquire_review_financial_transaction
+I need to confirm if a specific transfer of $300 to account XXXXXXXXXX has been completed.,inquire_review_financial_transaction
+There's a subscription charge for 'Premium News' I don't recall signing up for. Can you check its origin?,inquire_review_financial_transaction
+My online statement shows a debit from 'Utility Co.' but the amount doesn't match my bill. Why?,inquire_review_financial_transaction
+I made a payment of $50 directly into my savings account. When will it show as available balance?,inquire_review_financial_transaction
+Why am I seeing a charge for an 'inactive account fee' when I use my account regularly?,inquire_review_financial_transaction
+I have a charge for $19.99 from 'Gaming Company' which I didn't authorize. Can you investigate?,inquire_review_financial_transaction
+The refund for my flight cancellation hasn't been posted yet. Can you check its status?,inquire_review_financial_transaction
+I see a pending charge for $10.00 from a gas station. I only bought gas for $5.00. Why the discrepancy?,inquire_review_financial_transaction
+My credit card was charged twice for the same online order. Can you help resolve this duplicate transaction?,inquire_review_financial_transaction
+What is the 'card replacement fee' I see on my bill? I haven't requested a new card.,inquire_review_financial_transaction
+I'm looking at my recent transactions and there's a deposit from 'Payroll' that is less than my usual pay. Why?,inquire_review_financial_transaction
+"Can you tell me if the payment for my car insurance, scheduled for today, has been processed?",inquire_review_financial_transaction
+"I noticed a small, recurring charge of $1.99 from an unknown vendor. Can you identify it?",inquire_review_financial_transaction
+My account shows a transfer to an external account that I did not initiate. Can you stop this transaction?,inquire_review_financial_transaction
+Why was there an 'insufficient funds fee' when I had enough money in my linked savings account?,inquire_review_financial_transaction
+I returned a product for $120.00. Has that refund been credited to my account yet?,inquire_review_financial_transaction
+There's a charge of $6.99 for a 'mobile app purchase' that I don't recognize. Can you give me details?,inquire_review_financial_transaction
+My bill shows a 'returned payment fee'. I believe my payment went through successfully.,inquire_review_financial_transaction
+I made an ATM withdrawal but the machine dispensed less money than I requested. The transaction reflects the full amount. Can you check this?,inquire_review_financial_transaction
+What's this $25 'express delivery fee' for on my recent purchase transaction?,inquire_review_financial_transaction
+I'm trying to understand a specific debit of $34.50 from 'Online Service Provider' on my statement from two weeks ago.,inquire_review_financial_transaction
+My balance seems off. Can you verify if the $50 deposit I made yesterday has been fully processed?,inquire_review_financial_transaction
+I have a pending charge from 'Hotel Chain' for an amount different than my reservation. Why?,inquire_review_financial_transaction
+I received a text alert about a $400 transaction in a different state. Can you confirm this activity?,inquire_review_financial_transaction
+Why was there a 'wire transfer fee' applied to my recent transfer when I selected a standard option?,inquire_review_financial_transaction
+Can you confirm that my last mortgage payment was received and applied on time?,inquire_review_financial_transaction
+I was promised a credit of $10 for a promotional offer. Is that showing on my account?,inquire_review_financial_transaction
+There's an unrecognized charge of $8.99 from 'Digital Content' on my statement. What is it?,inquire_review_financial_transaction
+My recurring monthly bill payment for electricity was missed. Can you explain why it didn't go through?,inquire_review_financial_transaction
+I see a charge for 'premium membership' that I cancelled months ago. Why is it still appearing?,inquire_review_financial_transaction
+What is the status of the international transfer I initiated to my family last Tuesday?,inquire_review_financial_transaction
+I believe my statement has an error regarding a purchase from 'Local Market' on November 3rd. The amount looks wrong.,inquire_review_financial_transaction
+Why was I charged a 'cash handling fee' for a simple deposit?,inquire_review_financial_transaction
+My account shows a credit card payment of $0.00. This is incorrect. Can you fix it?,inquire_review_financial_transaction
+I have a debit transaction from 'Fitness Club' that I did not authorize. Can you help?,inquire_review_financial_transaction
+The refund for my concert tickets hasn't posted. How long does it usually take?,inquire_review_financial_transaction
+Can you provide details on the $12.50 fee charged on October 20th?,inquire_review_financial_transaction
+I paid my phone bill but still see a pending payment on my account. Is it going to be debited twice?,inquire_review_financial_transaction
+What does the transaction 'P2P Transfer Out' for $75 signify on my account?,inquire_review_financial_transaction
+"My direct deposit was supposed to be $1000, but only $950 was credited. Why is there a difference?",inquire_review_financial_transaction
+I received a notification about a large purchase on my card that I didn't make. Please investigate this transaction.,inquire_review_financial_transaction
+There's a recurring charge from 'Online Magazine' that I want to dispute. Can you provide the transaction history for it?,inquire_review_financial_transaction
+My savings account shows a withdrawal I don't remember making. Can you trace this transaction?,inquire_review_financial_transaction
+Why was I charged a 'minimum balance fee' when my balance was above the threshold?,inquire_review_financial_transaction
+"I submitted a claim for reimbursement, and the amount was supposed to be $500. My account shows a deposit of $450. What happened?",inquire_review_financial_transaction
+Can you tell me about the specific payment of $200 made to 'Utility Provider A' on November 10th?,inquire_review_financial_transaction
+I see a pending charge for $20 from 'Coffee Shop'. I only bought a coffee for $3. Why the hold?,inquire_review_financial_transaction
+My credit card statement has a charge for 'Express Shipping' that wasn't part of my purchase agreement. Can you clarify?,inquire_review_financial_transaction
+"I was expecting a deposit from a specific source, but it hasn't shown up. Can you check if there's any pending credit?",inquire_review_financial_transaction
+What is the meaning of the 'Adjustment Debit' on my account statement from last week?,inquire_review_financial_transaction

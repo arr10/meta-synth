@@ -1,0 +1,6 @@
+text,label
+Is it possible to view my transaction history within this application?,app_action_query
+Does the app allow me to block my card if it's lost?,app_action_query
+How do I update my personal details using the app?,app_action_query
+Can I set up recurring payments directly from this mobile app?,app_action_query
+What other financial services can I access through your application?,app_action_query

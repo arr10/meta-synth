@@ -1,0 +1,101 @@
+text,label
+I see a $35 charge from 'Unknown Merchant' on my statement. What is this?,account_charge_query
+There's an unexpected $12.99 fee on my account. Can you explain it?,account_charge_query
+My latest credit card bill has a charge for $50 from 'Online Service Pro' that I don't recognize.,account_charge_query
+Why was I debited $20 on Tuesday for something I didn't purchase?,account_charge_query
+I have a mysterious $7.99 recurring charge. Can you tell me what it's for?,account_charge_query
+There's an unauthorized transaction of $100 on my bank account.,account_charge_query
+I'm looking at my recent activity and see a charge from 'App XYZ' for $14.99. I never subscribed.,account_charge_query
+Can you help me understand a $2.50 'Service Fee' that appeared on my last statement?,account_charge_query
+My debit card was charged $45 twice by 'Local Store' today. I only made one purchase.,account_charge_query
+What is the $8.99 charge from 'StreamCo' on my bill? I thought I cancelled it.,account_charge_query
+I found an unrecognized $60 charge on my credit card statement from 'Software Solutions'.,account_charge_query
+There's an unexplained $15 debit on my checking account. Who or what is it from?,account_charge_query
+Could you investigate a $25 charge from 'WebHost Corp' that I don't recall authorizing?,account_charge_query
+I'm questioning a $3.99 fee for 'Premium Features' that I didn't opt into.,account_charge_query
+My statement shows a transaction for $75 at 'Gas Station ABC' but I haven't been there in weeks.,account_charge_query
+Why am I being charged $19.99 for 'Monthly Membership' when I'm not a member?,account_charge_query
+There's a $5.00 'Account Maintenance Fee' I don't remember agreeing to.,account_charge_query
+Can you clarify a $30 charge from 'Utility Provider X' that seems unusually high for this month?,account_charge_query
+I noticed a strange $1.00 charge on my card from 'Card Verifier'. What is this for?,account_charge_query
+My online banking shows a $22 charge from 'Online Merchant Y' that I don't recognize.,account_charge_query
+"Help, I have an unknown $5.99 charge from 'GameCo' on my statement.",account_charge_query
+"There's a transaction for $85 from 'Restaurant Z' on my credit card, but I ate elsewhere that night.",account_charge_query
+Could you tell me what the $10 'Processing Fee' is for on my recent statement?,account_charge_query
+I see a $49.99 charge for 'Annual Subscription' that I wasn't expecting to renew.,account_charge_query
+My account was debited $150 by a company I've never heard of. What happened?,account_charge_query
+Why is there a $0.50 'Small Transaction Fee' on my statement? Is that new?,account_charge_query
+I received an alert about a $20 charge from 'E-commerce Site' which I didn't make.,account_charge_query
+"There are multiple small charges from 'Various Merchants' on my card, none of which I recognize.",account_charge_query
+Can you look into a $29.99 charge from 'Cloud Storage' that appeared on my bill unexpectedly?,account_charge_query
+I'm trying to understand a $90 debit from 'Cash Advance Co.' I never authorized one.,account_charge_query
+My statement has a $1.99 charge for 'Premium Content' that I didn't authorize.,account_charge_query
+Why was I charged an 'Overlimit Fee' when my balance was well below my limit?,account_charge_query
+I have a $70 charge from 'Travel Agency A' but I cancelled my trip and got confirmation.,account_charge_query
+What's this $13.50 charge from 'Local Store B' appearing on my transaction history that I don't recall?,account_charge_query
+There's a $19.99 fee on my credit card labeled 'Subscription Renewal' for a service I no longer use.,account_charge_query
+Can you identify the source of a $22.22 debit from my checking account?,account_charge_query
+I'm concerned about a $200 charge from 'Large Retailer C' that seems incorrect for my purchase.,account_charge_query
+My account shows a recurring debit of $4.99 for 'App Subscription'. I cancelled this last month.,account_charge_query
+Why am I seeing a 'Foreign Transaction Fee' when all my recent purchases were local?,account_charge_query
+There's a $6.99 charge from 'Music Streaming' that I don't remember signing up for.,account_charge_query
+I have a $120 charge from 'Hotel Chain D' but I didn't stay there.,account_charge_query
+Could you explain the $2.00 'ATM Fee' when I used a partner ATM that should be free?,account_charge_query
+My statement has an entry for $55 at 'Online Store E' which I didn't make.,account_charge_query
+What is this $8.00 'Delivery Fee' on my restaurant order statement? I picked it up myself.,account_charge_query
+There's a $99 'Annual Service Charge' that I wasn't informed about prior to being charged.,account_charge_query
+I'm querying a $30 charge from 'Fitness Club F' when my membership expired months ago.,account_charge_query
+Why did I get charged $1.50 for a balance inquiry at an ATM when I only checked my balance online?,account_charge_query
+My debit card shows a charge for $17.50 from 'Coffee Shop G' but I paid cash there.,account_charge_query
+Can you tell me about the $25 'Returned Item Fee' on my account? I thought funds were sufficient.,account_charge_query
+I see a $4.99 charge from 'Video Service H' that I haven't used in months and didn't authorize.,account_charge_query
+There's an extra $10.00 charge on my utility bill labelled 'Miscellaneous' without explanation.,account_charge_query
+My credit card statement has a charge of $180 from 'Electronics Store I' that I don't recognize.,account_charge_query
+Why was I charged a 'Late Payment Fee' when I paid my bill on time?,account_charge_query
+I'm seeing a duplicate charge of $65 from 'Department Store J' on my card.,account_charge_query
+What is this $2.99 fee from 'Mobile Game K' that I didn't authorize?,account_charge_query
+There's a $30 charge from 'Dry Cleaning L' that I never made.,account_charge_query
+My account was debited $7.99 for 'Premium Subscription' which I cancelled weeks ago.,account_charge_query
+Could you look into a $15 charge from 'Pharmacy M' on my statement? It's unfamiliar.,account_charge_query
+I have a $220 charge from 'Airline N' for a flight I cancelled and received confirmation for.,account_charge_query
+Why is there a $1.25 'Foreign Currency Conversion Fee' on a local transaction?,account_charge_query
+My bank statement shows a $40 charge from 'Book Store O'. I didn't buy anything there.,account_charge_query
+What's this $5.99 'Shipping Fee' when I selected in-store pickup for my order?,account_charge_query
+"There's a $30 charge from 'Gym P' which is not my gym, and I'm not a member.",account_charge_query
+I'm questioning a $15 'Card Replacement Fee' when my card wasn't lost or stolen.,account_charge_query
+My debit card was charged $11.11 by an unknown merchant. Can you identify it?,account_charge_query
+Why was I charged $12.99 for 'Music Service Q' that I unsubscribed from?,account_charge_query
+I see a $45 charge from 'Restaurant R' that isn't mine on my transaction list.,account_charge_query
+There's an unexpected $6.99 fee on my account that I can't identify.,account_charge_query
+Can you explain the $75 charge from 'Hotel S' that appeared on my bill after checkout?,account_charge_query
+My credit card shows a $2.50 'ATM Withdrawal Fee' for a transaction I don't remember making.,account_charge_query
+"What is this $19.99 charge from 'Software T' on my account, I didn't purchase any software?",account_charge_query
+I have a $28 charge from 'Beauty Salon U' but I don't go there.,account_charge_query
+Why was I charged $8.99 for 'Digital Magazine V' which I never ordered?,account_charge_query
+There's a $50 debit from 'Online Vendor W' that I don't recognize on my statement.,account_charge_query
+Can you investigate a $35 charge from 'Car Rental X' that appeared post-return for no reason?,account_charge_query
+"My statement has an 'Annual Fee' of $99, but I thought my card had no annual fee.",account_charge_query
+I'm seeing a $1.00 verification charge from 'Online Service Y'. What is it verifying and why?,account_charge_query
+Why did I get charged $16.99 for 'Streaming Service Z' when I cancelled my subscription last month?,account_charge_query
+There's a $25 charge from 'Local Pub A' that I wasn't at on that date.,account_charge_query
+My account shows a mysterious $14.99 fee. Can you tell me more about it?,account_charge_query
+I'm concerned about a $4.50 'Cross-Border Transaction Fee' for an online purchase within my country.,account_charge_query
+What is the $60 charge from 'Repair Shop B' on my card statement? I haven't used them.,account_charge_query
+Why was I debited $7.99 for 'Game Subscription C' when I haven't played in months and it was supposed to be inactive?,account_charge_query
+I see a $20 charge from 'Grocery Store D' but I used a different card there.,account_charge_query
+There's an inexplicable $10.99 charge from 'App Store E' that I don't recognize.,account_charge_query
+Can you clarify the $125 charge from 'Furniture Store F' that showed up on my statement?,account_charge_query
+My bill has a 'Setup Fee' of $30 that I wasn't expecting for my new service.,account_charge_query
+I noticed a $2.00 charge from 'Parking Meter G' which I didn't use.,account_charge_query
+Why did my account get charged $29.99 for 'Premium Software H' that I never installed?,account_charge_query
+There's a $5.00 'Paper Statement Fee' on my bill; I thought I was enrolled in paperless.,account_charge_query
+I'm querying a $40 charge from 'Electronics Retailer I' that is unknown to me.,account_charge_query
+What is this $18.99 charge from 'Subscription Box J' on my card? I cancelled it.,account_charge_query
+My account shows a $7.77 debit from an unknown source. Could you check it?,account_charge_query
+Why was I charged $12.00 for 'Delivery Service K' when it was supposed to be free?,account_charge_query
+I see a $55 charge from 'Clothing Store L' but I returned all items and received a refund confirmation.,account_charge_query
+There's an unidentifiable $3.99 fee on my bank statement.,account_charge_query
+Can you explain the $9.99 charge from 'News Outlet M' that just appeared on my account?,account_charge_query
+My credit card was charged $130 from 'Online Retailer N' but I didn't make that purchase.,account_charge_query
+What's this $2.00 'Foreign Transaction Fee' on my online purchase from a domestic site?,account_charge_query
+I have a $25 charge from 'Local Pharmacy O' that I can't account for on my bank statement.,account_charge_query

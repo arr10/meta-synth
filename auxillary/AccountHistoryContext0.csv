@@ -1,0 +1,6 @@
+text,label
+I want to see all my transactions from the last 30 days.,transaction_history
+How do I get a copy of my bank statement?,transaction_history
+Could you tell me what payments went out last week?,transaction_history
+Where can I find my spending report for the quarter?,transaction_history
+I'd like to review my account activity from February.,transaction_history

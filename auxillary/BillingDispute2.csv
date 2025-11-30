@@ -1,0 +1,6 @@
+text,label
+I was charged for a service I no longer use. Can you explain why?,billing_discrepancy_query
+There's a fee on my account that seems incorrect. What is it for?,billing_discrepancy_query
+I noticed an odd transaction amount on my latest statement.,billing_discrepancy_query
+Why am I still being billed after I terminated my subscription?,billing_discrepancy_query
+I don't understand this charge of $15.99 on my bank statement.,billing_discrepancy_query

@@ -1,0 +1,6 @@
+text,label
+I noticed an unknown charge appear on my statement last week.,past_event_query
+My account shows several transactions that I didn't authorize yesterday.,past_event_query
+What was that payment for on May 15th?,past_event_query
+Somebody spent money using my card when I was asleep.,past_event_query
+Why did my direct debit bounce on the 1st of this month?,past_event_query

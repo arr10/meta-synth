@@ -1,0 +1,101 @@
+text,label
+I noticed a transaction on my credit card statement that I definitely didn't make.,fraud_security_concern
+My bank account shows a withdrawal I don't recognize. Is this fraud?,fraud_security_concern
+Someone used my debit card number for online purchases without my permission.,fraud_security_concern
+I believe my online banking account has been compromised.,fraud_security_concern
+There's an unknown charge of $50 on my recent statement. I need to dispute it.,fraud_security_concern
+"I received an alert for a login from a new device, but it wasn't me.",fraud_security_concern
+"My credit card was stolen, and there are now multiple unauthorized transactions.",fraud_security_concern
+"I can't access my account, and I suspect someone else changed my password.",fraud_security_concern
+These payments weren't authorized by me. What should I do?,fraud_security_concern
+I think someone might be trying to open an account using my identity.,fraud_security_concern
+I got a suspicious text message asking for my banking details.,fraud_security_concern
+My balance is lower than it should be due to unapproved transactions.,fraud_security_concern
+Someone has accessed my financial information without my consent.,fraud_security_concern
+I need to report fraudulent activity on my checking account.,fraud_security_concern
+A purchase appeared on my statement from a merchant I've never heard of.,fraud_security_concern
+I'm concerned about the security of my personal financial data after a data breach elsewhere.,fraud_security_concern
+There's a recurring charge I didn't set up on my card.,fraud_security_concern
+"My debit card was lost, and now there are charges I didn't make.",fraud_security_concern
+I suspect someone is using my account to make transfers.,fraud_security_concern
+I received an email about a large transfer I didn't initiate.,fraud_security_concern
+My payment instrument shows charges from an unknown source.,fraud_security_concern
+I'm worried my account login details have been stolen.,fraud_security_concern
+A transaction was processed today that I did not authorize.,fraud_security_concern
+I believe there's unauthorized access to my investment account.,fraud_security_concern
+Someone is attempting to make fraudulent purchases with my card.,fraud_security_concern
+I need help with a potential security breach on my account.,fraud_security_concern
+My card details were used for an online purchase I didn't make.,fraud_security_concern
+There are several unusual activities on my credit card statement.,fraud_security_concern
+I want to report a scam where someone tried to get my bank info.,fraud_security_concern
+I see a transfer out of my savings account that I didn't approve.,fraud_security_concern
+Is it possible my account has been hacked? I noticed some strange things.,fraud_security_concern
+"My identity might have been compromised, and I'm worried about new accounts being opened.",fraud_security_concern
+"I received a notification about an address change on my profile, but I didn't do it.",fraud_security_concern
+"Unauthorized charges are appearing on my account, please help.",fraud_security_concern
+My card was used in a different country without my knowledge.,fraud_security_concern
+I need to stop unauthorized payments from my bank account.,fraud_security_concern
+Someone gained access to my account without my permission.,fraud_security_concern
+I'm reporting suspicious online activity related to my finances.,fraud_security_concern
+There's a charge on my bank statement that is absolutely not mine.,fraud_security_concern
+I suspect my credit card number has been stolen and is being used.,fraud_security_concern
+I'm calling about unauthorized debits from my account.,fraud_security_concern
+"My security information might have been leaked, how do I secure my account?",fraud_security_concern
+I need assistance because I think someone is using my identity for financial gain.,fraud_security_concern
+I keep getting alerts for failed login attempts to my account.,fraud_security_concern
+There's a payment listed that I did not consent to.,fraud_security_concern
+"My card was skimmed, and now I see fraudulent charges.",fraud_security_concern
+I want to dispute these transactions as I never authorized them.,fraud_security_concern
+Someone used my personal details to apply for a loan without my knowledge.,fraud_security_concern
+I'm concerned about suspicious activity on my financial accounts.,fraud_security_concern
+I see a charge from an unknown merchant. Could this be fraud?,fraud_security_concern
+My account shows activity that wasn't initiated by me.,fraud_security_concern
+I need to report potential fraud on my account.,fraud_security_concern
+My banking app shows a login from an unrecognized location.,fraud_security_concern
+I've been a victim of a phishing scam and now I'm worried about my account.,fraud_security_concern
+There's an unauthorized withdrawal from my ATM.,fraud_security_concern
+I suspect my PIN has been compromised.,fraud_security_concern
+My credit report shows an account I didn't open. Is this identity theft?,fraud_security_concern
+I need to freeze my account due to suspected unauthorized access.,fraud_security_concern
+"My debit card was duplicated, and there are fraudulent charges.",fraud_security_concern
+Someone is using my email associated with my bank account inappropriately.,fraud_security_concern
+I'm calling to report a security incident related to my finances.,fraud_security_concern
+I found several unapproved transactions on my recent bank statement.,fraud_security_concern
+My account was accessed by an unauthorized person.,fraud_security_concern
+I believe my payment information has been stolen.,fraud_security_concern
+"I received a fraud alert, and I confirm the transaction was not mine.",fraud_security_concern
+My financial account appears to have been breached. What should I do?,fraud_security_concern
+My funds seem to be missing due to unapproved transfers.,fraud_security_concern
+Someone tried to change my contact information on my account without my consent.,fraud_security_concern
+I'm disputing an unauthorized direct debit from my account.,fraud_security_concern
+My card was charged for a subscription I never signed up for.,fraud_security_concern
+I'm worried about identity theft affecting my bank accounts.,fraud_security_concern
+There's an unapproved payment from my digital wallet.,fraud_security_concern
+I suspect fraudulent activity because of unexpected account changes.,fraud_security_concern
+My personal details seem to have been used to create a fraudulent account.,fraud_security_concern
+I need to activate a fraud alert on my credit file.,fraud_security_concern
+I received a call pretending to be from my bank asking for sensitive info.,fraud_security_concern
+"My online banking password no longer works, and I didn't change it.",fraud_security_concern
+I believe someone has stolen my financial information.,fraud_security_concern
+There are suspicious activities on my investment portfolio.,fraud_security_concern
+I want to report an attempted scam that targeted my bank account.,fraud_security_concern
+My credit card shows purchases I didn't authorize or make.,fraud_security_concern
+I need to know if my account is safe after receiving a strange email.,fraud_security_concern
+Someone gained access to my bank account and made transfers.,fraud_security_concern
+I'm concerned about unauthorized use of my payment details.,fraud_security_concern
+My account balance is incorrect due to transactions I didn't make.,fraud_security_concern
+I need to dispute a fraudulent charge on my debit card.,fraud_security_concern
+I think my card number was stolen from an online merchant.,fraud_security_concern
+"My personal financial data feels compromised, I need help.",fraud_security_concern
+There's a strange login activity notification I just received.,fraud_security_concern
+I want to report someone trying to trick me into giving them my account details.,fraud_security_concern
+My bank statement has items that are clearly not mine.,fraud_security_concern
+I need to block my card immediately due to suspected fraud.,fraud_security_concern
+Someone applied for a credit card in my name without my permission.,fraud_security_concern
+My account has been used for purchases I didn't make.,fraud_security_concern
+I received an alert about unusual spending patterns on my card.,fraud_security_concern
+I'm worried about a potential breach of my banking security.,fraud_security_concern
+There are charges from an unrecognized app on my account.,fraud_security_concern
+My identity was used to open a fraudulent line of credit.,fraud_security_concern
+I'm reporting an instance of digital fraud affecting my finances.,fraud_security_concern
+I need to secure my account as I suspect unauthorized access attempts.,fraud_security_concern

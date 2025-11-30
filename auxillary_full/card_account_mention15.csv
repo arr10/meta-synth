@@ -1,0 +1,105 @@
+text,label
+Somebody used my card without my knowledge!,mentions_card_account
+"There's an extra fee on my statement, why is that?",mentions_card_account
+How do I report possible fraudulent activity on my account?,mentions_card_account
+Why i'm I being charged an extra pound,mentions_card_account
+I need to report suspicious activity on my credit card.,mentions_card_account
+"My debit card was stolen yesterday, what should I do?",mentions_card_account
+Can you help me understand a charge on my latest statement?,mentions_card_account
+I'm trying to view my transaction history for the past month.,mentions_card_account
+What's the current balance in my checking account?,mentions_card_account
+There's an unrecognized purchase on my card.,mentions_card_account
+I want to dispute a transaction that appeared on my statement.,mentions_card_account
+"My card got declined, can you tell me why?",mentions_card_account
+How do I access my monthly statement online?,mentions_card_account
+I need to freeze my account immediately.,mentions_card_account
+Someone used my card details without my permission.,mentions_card_account
+Can I get a temporary block on my card?,mentions_card_account
+I can't log in to see my account details.,mentions_card_account
+Why is there an annual fee on my credit card?,mentions_card_account
+"I transferred funds from my savings account, but they haven't arrived.",mentions_card_account
+Is it possible to get a copy of my old statements?,mentions_card_account
+"My balance seems incorrect, can you verify it?",mentions_card_account
+I received an alert about unusual activity on my account.,mentions_card_account
+How do I change the PIN for my debit card?,mentions_card_account
+I want to close my account.,mentions_card_account
+There's an extra charge on my card I don't recognize.,mentions_card_account
+Can you tell me about the recent transactions on my account?,mentions_card_account
+I forgot my card in an ATM.,mentions_card_account
+What's the best way to secure my account from fraud?,mentions_card_account
+My statement shows a recurring payment I cancelled.,mentions_card_account
+I need to update my contact information associated with my account.,mentions_card_account
+Why was my payment returned to my account?,mentions_card_account
+Can I increase the limit on my credit card?,mentions_card_account
+I'm having trouble linking my card to a new app.,mentions_card_account
+Where can I find my account number and sort code?,mentions_card_account
+My funds aren't showing up in my account yet.,mentions_card_account
+I'm concerned about a debit on my statement.,mentions_card_account
+Can you tell me if my card is active?,mentions_card_account
+I made a transfer from my account but it failed.,mentions_card_account
+I need a new card because mine is damaged.,mentions_card_account
+Is there a fee for international transactions on my card?,mentions_card_account
+Why is my balance lower than expected?,mentions_card_account
+I want to review my direct debits and standing orders on my account.,mentions_card_account
+Someone tried to log into my account.,mentions_card_account
+Can I get a mini statement for my debit card?,mentions_card_account
+"My card expired, how do I get a new one?",mentions_card_account
+I'm trying to pay a bill using my account.,mentions_card_account
+There's a pending transaction on my card that looks wrong.,mentions_card_account
+I need to report my card as lost.,mentions_card_account
+Can you help me reconcile my statement?,mentions_card_account
+My credit card bill seems unusually high.,mentions_card_account
+I want to set up an alert for activity on my account.,mentions_card_account
+Is it possible to extend my overdraft limit on my account?,mentions_card_account
+I can't see a recent deposit in my account.,mentions_card_account
+Why am I being charged a fee for my account maintenance?,mentions_card_account
+I need to unblock my card for online purchases.,mentions_card_account
+Can you confirm my current available balance?,mentions_card_account
+My bank statement has an error.,mentions_card_account
+I'm worried about unauthorized access to my funds.,mentions_card_account
+I want to stop a payment coming from my account.,mentions_card_account
+What's the status of my recent card replacement request?,mentions_card_account
+There's a strange transaction on my plastic.,mentions_card_account
+Can I get a breakdown of my spending on my card?,mentions_card_account
+I need to know what cleared my account today.,mentions_card_account
+My credit card interest rate seems to have changed.,mentions_card_account
+I'm reporting an incorrect balance on my account.,mentions_card_account
+Is it possible to get a digital copy of my statement?,mentions_card_account
+Someone has made purchases with my card.,mentions_card_account
+Why is my account showing insufficient funds?,mentions_card_account
+I need assistance with my online banking statement.,mentions_card_account
+Can you help me understand my credit card limits?,mentions_card_account
+I want to check the pending transactions on my account.,mentions_card_account
+My debit card isn't working at the ATM.,mentions_card_account
+How do I set up alerts for activity on my card?,mentions_card_account
+I need to dispute a double charge on my statement.,mentions_card_account
+Why was I charged for this?,mentions_card_account
+I see an unfamiliar debit.,mentions_card_account
+My monthly bill is incorrect.,mentions_card_account
+How do I review my spending?,mentions_card_account
+I've been double charged for a purchase.,mentions_card_account
+Can you tell me about this payment?,mentions_card_account
+I need to check my available credit.,mentions_card_account
+My cash withdrawal was deducted twice.,mentions_card_account
+I can't access my money.,mentions_card_account
+Where's my latest deposit?,mentions_card_account
+What are the interest rates for your savings accounts?,NOT_mentions_card_account
+How do I apply for a new credit card?,NOT_mentions_card_account
+What are your branch opening hours?,NOT_mentions_card_account
+Tell me about your personal loan products.,NOT_mentions_card_account
+My app is crashing when I try to log in.,NOT_mentions_card_account
+Can I open a joint account with my partner?,NOT_mentions_card_account
+What is the average transaction time for international transfers?,NOT_mentions_card_account
+How do I set up a direct debit?,NOT_mentions_card_account
+What documents do I need to open a bank account?,NOT_mentions_card_account
+Do you offer mortgages?,NOT_mentions_card_account
+Where is the nearest ATM?,NOT_mentions_card_account
+What are the benefits of a platinum credit card?,NOT_mentions_card_account
+I'm having trouble resetting my online banking password.,NOT_mentions_card_account
+What are your fees for sending money abroad?,NOT_mentions_card_account
+How can I improve my credit score?,NOT_mentions_card_account
+Is it safe to use public Wi-Fi for banking?,NOT_mentions_card_account
+What is your bank's policy on overdrafts?,NOT_mentions_card_account
+I want to learn about investment options.,NOT_mentions_card_account
+Do you have any promotions for new customers?,NOT_mentions_card_account
+How long does it take for a cheque to clear?,NOT_mentions_card_account

@@ -1,0 +1,6 @@
+text,label
+I'd like to convert some Australian dollars to Japanese Yen.,mentions_currency_or_amount
+Is there a service fee for this transaction?,mentions_currency_or_amount
+My account balance seems off by a few dollars.,mentions_currency_or_amount
+I need to know the exchange rate between SEK and NOK.,mentions_currency_or_amount
+Why was I charged only 5 cents for that?,mentions_currency_or_amount

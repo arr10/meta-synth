@@ -1,0 +1,6 @@
+text,label
+How much does the premium subscription cost per month?,mentions_financial_charge
+Is there a late payment fee if I miss the deadline?,mentions_financial_charge
+I noticed a debit of $10 from my savings account yesterday.,mentions_financial_charge
+Could you tell me the pricing for your different account tiers?,mentions_financial_charge
+Do I have to pay an extra amount for expedited delivery?,mentions_financial_charge

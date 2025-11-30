@@ -1,0 +1,6 @@
+text,label
+I noticed some unknown transactions on my account. Could this be fraud?,fraud_security_concern
+"My debit card was stolen, and I think someone is using it.",fraud_security_concern
+I received an alert about suspicious activity on my credit card.,fraud_security_concern
+How do I dispute a charge that I absolutely did not make?,fraud_security_concern
+"Someone got access to my online banking, what should I do?",fraud_security_concern

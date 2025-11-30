@@ -1,0 +1,6 @@
+text,label
+My last statement shows a debit of $20 I don't recognize.,transaction_mention
+How much will it cost to send money internationally?,transaction_mention
+I need to exchange Yen for Won.,transaction_mention
+Was the payment for my subscription successful?,transaction_mention
+"There's a credit on my account, but I'm not sure why.",transaction_mention

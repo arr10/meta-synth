@@ -1,0 +1,6 @@
+text,label
+What is this payment for on my statement?,financial_event_query
+My last transaction shows as pending for too long.,financial_event_query
+Can you tell me about this unexpected debit from my account?,financial_event_query
+I need to understand a fee that was applied to my card.,financial_event_query
+Why was my purchase declined earlier today?,financial_event_query

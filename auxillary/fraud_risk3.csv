@@ -1,0 +1,6 @@
+text,label
+I need to dispute some charges that I absolutely did not make.,implies_fraud_risk
+"My card has been stolen, what should I do?",implies_fraud_risk
+I'm seeing transactions on my statement that are not mine. Is my account safe?,implies_fraud_risk
+How do I block my card if I think someone else is using it?,implies_fraud_risk
+"Please help, I have unauthorized charges on my credit card.",implies_fraud_risk

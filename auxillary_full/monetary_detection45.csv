@@ -1,0 +1,119 @@
+text,label
+I see an unexpected charge of $25 on my latest statement.,monetary_amount
+How do I reset my account password?,no_monetary_amount
+What is the monthly fee for the premium subscription?,monetary_amount
+My internet connection has been down for an hour.,no_monetary_amount
+"The total on my bill is £49.99, can you explain the breakdown?",monetary_amount
+I need to update my shipping address for a pending order.,no_monetary_amount
+I was charged 15 euros twice for the same service.,monetary_amount
+Can you tell me your operating hours for the support line?,no_monetary_amount
+What's the cost to upgrade my current plan?,monetary_amount
+My device is not connecting to the Wi-Fi network.,no_monetary_amount
+I'd like to inquire about the refund status for my recent purchase.,monetary_amount
+Where can I find the user manual for my new gadget?,no_monetary_amount
+There's a transaction for CAD 80 I don't recognize on my statement.,monetary_amount
+How do I track my package after it's been shipped?,no_monetary_amount
+Is there an activation fee for new customers?,monetary_amount
+The app crashes every time I try to open it.,no_monetary_amount
+My credit card was debited $9.99 despite canceling the service.,monetary_amount
+What features are included in the basic package?,no_monetary_amount
+I want to know the price of your enterprise solution.,monetary_amount
+"I forgot my username, how can I recover it?",no_monetary_amount
+Can I get a credit back for the overpayment?,monetary_amount
+"My product arrived damaged, what should I do?",no_monetary_amount
+What are the shipping costs for international delivery?,monetary_amount
+How do I change my notification preferences?,no_monetary_amount
+I need a detailed breakdown of my last month's bill which totals 120 USD.,monetary_amount
+Is there a way to merge two separate accounts?,no_monetary_amount
+"My account shows a late payment fee, but I paid on time.",monetary_amount
+The website is showing an error 404 message.,no_monetary_amount
+A sum of ten pounds was deducted from my savings account without my consent.,monetary_amount
+What are the compatibility requirements for your software?,no_monetary_amount
+How much does it cost to add an additional user to my team?,monetary_amount
+I need help with troubleshooting my smart home device.,no_monetary_amount
+My statement indicates a charge of 35 JPY that seems incorrect.,monetary_amount
+Can you provide information on your return policy?,no_monetary_amount
+"I'm looking for a cheaper internet plan, what are my options?",monetary_amount
+My remote control stopped working suddenly.,no_monetary_amount
+Is there an annual renewal fee for my subscription?,monetary_amount
+How do I update my personal profile information?,no_monetary_amount
+I was overcharged by $5 for my coffee this morning.,monetary_amount
+What are the benefits of upgrading my membership?,no_monetary_amount
+What are the current interest rates for your savings accounts?,monetary_amount
+I can't log into my email account.,no_monetary_amount
+I'd like to know the current exchange rate for EUR to USD.,monetary_amount
+My device is making a strange noise.,no_monetary_amount
+"There's an additional tax applied to my purchase, why?",monetary_amount
+How do I pair my new Bluetooth headphones?,no_monetary_amount
+Can you explain this 7 euro charge on my credit card statement?,monetary_amount
+I want to report a bug in the mobile application.,no_monetary_amount
+How much is the warranty extension for my laptop?,monetary_amount
+My video streaming is buffering constantly.,no_monetary_amount
+I'm disputing a charge of fifty dollars from last week.,monetary_amount
+What are the instructions for setting up parental controls?,no_monetary_amount
+"My bank statement shows two debits of 20 quid each, which is wrong.",monetary_amount
+Can you recommend a product for my needs?,no_monetary_amount
+What are the costs associated with early contract termination?,monetary_amount
+I'm experiencing slow performance on my computer.,no_monetary_amount
+"I received an invoice for services I never received, totaling 200 CAD.",monetary_amount
+How do I contact a live agent for more assistance?,no_monetary_amount
+Is there any discount code I can use for my next purchase?,monetary_amount
+"My account was temporarily locked, how can I unlock it?",no_monetary_amount
+I want to apply a gift card worth $50 to my balance.,monetary_amount
+What are your policies on data privacy?,no_monetary_amount
+How much is a new SIM card?,monetary_amount
+The sound isn't working on my TV.,no_monetary_amount
+My subscription automatically renewed and charged me 100 dollars.,monetary_amount
+I need assistance navigating your website.,no_monetary_amount
+What are the current rates for money transfers?,monetary_amount
+My printer isn't printing correctly.,no_monetary_amount
+"I have a credit of $10 on my account, how can I use it?",monetary_amount
+Can you walk me through the steps to factory reset my phone?,no_monetary_amount
+There's an inexplicable charge of 75 AUD on my bank account.,monetary_amount
+I want to subscribe to your newsletter.,no_monetary_amount
+How much do individual modules cost for the software?,monetary_amount
+The screen on my tablet is flickering.,no_monetary_amount
+I was double charged 4.99 for my app subscription.,monetary_amount
+Can you provide general information about your services?,no_monetary_amount
+What is the fee for making an international call?,monetary_amount
+My login credentials are not being accepted.,no_monetary_amount
+I need to know the exact total expense for this project.,monetary_amount
+How can I check the status of my support ticket?,no_monetary_amount
+There's an administrative fee of 2 pounds applied to my account.,monetary_amount
+I'm having trouble with video playback.,no_monetary_amount
+"My bill is higher than expected, it says $85.",monetary_amount
+Where can I find release notes for the latest software update?,no_monetary_amount
+What's the cost of a replacement part for my appliance?,monetary_amount
+I'd like to cancel my order before it ships.,no_monetary_amount
+I want to dispute the amount billed for this month.,monetary_amount
+My new headphones aren't charging.,no_monetary_amount
+Can you help me understand why I was charged 1500 JPY for this?,monetary_amount
+How do I block unwanted calls or messages?,no_monetary_amount
+Is there a transaction fee for online payments?,monetary_amount
+I cannot connect to the internet using my mobile data.,no_monetary_amount
+I need a copy of my last invoice showing the total amount.,monetary_amount
+What are the specifications of the product?,no_monetary_amount
+My monthly payment increased by $5 without notice.,monetary_amount
+I'm getting error messages when I try to save my settings.,no_monetary_amount
+How much do individual stock trades cost?,monetary_amount
+Can you explain how to set up multi-factor authentication?,no_monetary_amount
+I see a deduction of thirty euros on my bank statement.,monetary_amount
+My smart device is unresponsive.,no_monetary_amount
+I received a notification about an upcoming bill of $75.,monetary_amount
+What is your policy regarding data retention?,no_monetary_amount
+Are there any hidden costs I should be aware of?,monetary_amount
+The microphone on my headset isn't working.,no_monetary_amount
+I want to clarify the pricing structure for your cloud storage.,monetary_amount
+How do I switch between different user profiles?,no_monetary_amount
+"My bill includes a charge for premium channels I don't subscribe to, worth 10 pounds.",monetary_amount
+I need to know how to export my data.,no_monetary_amount
+Could you tell me the estimated repair cost for my laptop screen?,monetary_amount
+What are the steps to factory reset my device?,no_monetary_amount
+"I was told there'd be no charge for this service, but my account was debited 5 dollars.",monetary_amount
+My login details are not working.,no_monetary_amount
+What's the difference in price between the basic and pro versions?,monetary_amount
+How do I submit a formal complaint?,no_monetary_amount
+My statement has an unexplained charge of 30 AUD.,monetary_amount
+The quality of the video call is poor.,no_monetary_amount
+I need to dispute a charge of $45 for a subscription I canceled.,monetary_amount
+Can you explain how to troubleshoot network issues?,no_monetary_amount

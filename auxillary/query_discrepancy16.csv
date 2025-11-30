@@ -1,0 +1,6 @@
+text,label
+I have an unknown charge of $5.99 on my credit card statement. What is it for?,query_discrepancy
+"My last bank statement shows a direct debit I don't recognize, can you tell me more?",query_discrepancy
+Why was I charged twice for the same purchase on my account?,query_discrepancy
+I don't recall making this transaction that appears on my online banking history.,query_discrepancy
+Can you explain this service fee that appeared on my monthly statement?,query_discrepancy

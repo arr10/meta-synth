@@ -1,0 +1,6 @@
+text,label
+There are transactions on my statement I don't recognize at all.,suspicious_activity_report
+I need to report some unauthorized purchases on my debit card.,suspicious_activity_report
+"My card was used by someone else, I don't know who.",suspicious_activity_report
+Could you block my card? I think it might have been compromised.,suspicious_activity_report
+I've noticed some strange logins to my account that weren't me.,suspicious_activity_report

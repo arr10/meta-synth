@@ -1,0 +1,6 @@
+text,label
+I see some transactions on my account that I definitely did not make. Is my card compromised?,indicates_unauthorized_use
+My card was used to buy something I didn't authorize. What should I do?,indicates_unauthorized_use
+There's a charge for a subscription I never signed up for. This feels like fraud.,indicates_unauthorized_use
+"I got a notification about a purchase in another country, but I haven't left my home. Someone must have my card details.",indicates_unauthorized_use
+Can you help me block my card? I believe someone stole it and is using it.,indicates_unauthorized_use

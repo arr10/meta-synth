@@ -1,0 +1,6 @@
+text,label
+There's a charge of 10 dollars on my last transaction.,monetary_amount
+I don't understand this service fee listed on my bill.,monetary_amount
+Why was I billed an extra five pounds?,monetary_amount
+My statement shows a deduction of 2.50 euros.,monetary_amount
+Can you explain the cost associated with this payment?,monetary_amount

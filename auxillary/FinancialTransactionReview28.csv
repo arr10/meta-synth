@@ -1,0 +1,6 @@
+text,label
+I see a payment for $25 on my statement that I don't recognize.,inquiry_financial_transaction
+Could you tell me what the 'Service Fee' charge is for on my last bill?,inquiry_financial_transaction
+"My account was debited twice for the same purchase, can you investigate?",inquiry_financial_transaction
+When will the pending transaction from yesterday be fully processed?,inquiry_financial_transaction
+I want to dispute a recent charge on my credit card statement.,inquiry_financial_transaction

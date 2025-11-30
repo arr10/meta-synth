@@ -1,0 +1,6 @@
+text,label
+"I want to switch from Euros to Dollars, how do I do that?",requests_currency_conversion
+Is there a way to convert my Australian Dollars to Japanese Yen?,requests_currency_conversion
+"I'm travelling to the US, can I change my local currency to USD?",requests_currency_conversion
+What are the steps to swap my CAD for EUR?,requests_currency_conversion
+"I need to get some Mexican Pesos, can the app help me change funds?",requests_currency_conversion

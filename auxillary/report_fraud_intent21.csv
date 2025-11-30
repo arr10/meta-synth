@@ -1,0 +1,6 @@
+text,label
+I want to formally report a series of unauthorized transactions on my account.,report_fraud_intent
+Can you tell me how to file a report for a compromised card?,report_fraud_intent
+I need to inform you about some transactions that I did not approve.,report_fraud_intent
+What's the process for reporting my card as stolen or fraudulently used?,report_fraud_intent
+"Someone used my card online, and I need to report this immediately.",report_fraud_intent

@@ -1,0 +1,6 @@
+text,label
+"My card was stolen, what should I do?",security_indicator
+I see some transactions on my statement that I definitely didn't make.,security_indicator
+How do I freeze my card if I suspect fraud?,security_indicator
+I'm worried someone might have gained access to my account.,security_indicator
+There are suspicious charges from an unknown merchant.,security_indicator

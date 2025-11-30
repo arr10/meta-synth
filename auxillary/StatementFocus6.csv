@@ -1,0 +1,6 @@
+text,label
+Where can I find my monthly bank statement?,statement_focus
+I can't understand some of the entries on my latest statement.,statement_focus
+Please send me a copy of my transaction history from last month.,statement_focus
+There's a recurring charge on my statement I don't recognize.,statement_focus
+Can you help me reconcile my account statement?,statement_focus

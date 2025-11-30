@@ -1,0 +1,101 @@
+text,label
+There's a charge on my statement I don't remember making. Can you explain?,query_discrepancy
+Why was I charged an international transaction fee? I thought it was waived.,query_discrepancy
+I see a duplicate charge for my coffee this morning. Was that an error?,query_discrepancy
+What is this 'service fee' on my latest bill? I haven't seen it before.,query_discrepancy
+My balance is lower than I expected. Is there a charge I'm missing?,query_discrepancy
+I don't recognize a recent payment listed on my account.,query_discrepancy
+There's an unexpected deduction from my savings account. What is it?,query_discrepancy
+Why was I charged for a subscription I cancelled last month?,query_discrepancy
+I'm confused about a transaction from 'XYZ Corp'. I don't recall buying anything there.,query_discrepancy
+My statement shows two charges for the same meal. Could you check?,query_discrepancy
+What is the meaning of this 'misc. charge' on my statement?,query_discrepancy
+I was charged twice for my Uber ride. Is that correct?,query_discrepancy
+There's an unauthorized charge of $50 on my credit card.,query_discrepancy
+I can't figure out what this $1.00 charge is for.,query_discrepancy
+My account was debited for an amount I don't recognize.,query_discrepancy
+Why is there an annual fee on my card when it's supposed to be no-fee?,query_discrepancy
+I see a pending transaction that looks wrong. Can you tell me more?,query_discrepancy
+My last statement has an item I question. It's for an unknown vendor.,query_discrepancy
+I got an alert about a large purchase I didn't make.,query_discrepancy
+Can you clarify a charge from 'Online Retailer X' on May 15th?,query_discrepancy
+Why was my recent payment applied incorrectly?,query_discrepancy
+There's a strange small charge on my account history.,query_discrepancy
+"I'm sure I paid this bill already, but it's showing as outstanding.",query_discrepancy
+What's this 'convenience fee' for? I wasn't expecting it.,query_discrepancy
+My travel points balance seems off. Did a redemption not go through?,query_discrepancy
+I've been charged for premium features I never activated.,query_discrepancy
+Why is my monthly fee higher this month than usual?,query_discrepancy
+I see a charge for an app I deleted weeks ago. Can you investigate?,query_discrepancy
+"There's a foreign currency transaction on my statement, but I haven't traveled.",query_discrepancy
+My credit card bill is higher than expected due to an unknown item.,query_discrepancy
+What is this subscription charge appearing suddenly on my statement?,query_discrepancy
+I'm questioning a transaction from a vendor I've never heard of.,query_discrepancy
+There's a hold on my account for an amount I don't understand.,query_discrepancy
+My statement balance doesn't match my records. Where's the discrepancy?,query_discrepancy
+Why was I charged for a trial period after I cancelled?,query_discrepancy
+I don't recognize an ATM withdrawal on my statement.,query_discrepancy
+There's an inexplicable charge of $100 on my recent transactions.,query_discrepancy
+Can you explain the 'late payment fee' when I paid on time?,query_discrepancy
+My account shows a transfer I didn't authorize.,query_discrepancy
+Why was I charged for something I returned?,query_discrepancy
+I'm seeing multiple small charges from an unknown source.,query_discrepancy
+What's this charge for 'digital content' when I haven't purchased any?,query_discrepancy
+"There's an overdraft fee, but I always keep enough funds.",query_discrepancy
+My credit limit decreased unexpectedly. Why?,query_discrepancy
+I don't understand this 'interchange fee' on my business account.,query_discrepancy
+Why was my refund less than the original purchase amount?,query_discrepancy
+There's a charge from 'Google Ads' but I don't use their service.,query_discrepancy
+I'm questioning a payroll deduction that wasn't there before.,query_discrepancy
+My account shows a mysterious debit.,query_discrepancy
+Can you tell me why I was charged for a text message alert?,query_discrepancy
+I have an unexplained charge on my statement from last week.,query_discrepancy
+My bank statement shows a transfer to an unfamiliar account.,query_discrepancy
+Why am I being charged a subscription fee for something I never signed up for?,query_discrepancy
+There's a charge labeled 'miscellaneous adjustment'. What does that mean?,query_discrepancy
+I see a repeated small charge for $0.99 from an unknown merchant.,query_discrepancy
+My transaction history includes a purchase I definitely didn't make.,query_discrepancy
+Why was my balance lower than expected this morning?,query_discrepancy
+I'm disputing a charge from 'Online Service Provider' on my bill.,query_discrepancy
+There's a strange charge from a company called 'Digital Solutions'.,query_discrepancy
+My recent statement has an incorrect amount for a known transaction.,query_discrepancy
+Why did I get charged a currency conversion fee for a domestic purchase?,query_discrepancy
+I believe there's an error in my current statement regarding a charge.,query_discrepancy
+What is this charge from 'PAYPAL *MERCHANT NAME' for? I don't recognize it.,query_discrepancy
+My credit card bill shows a charge from a city I've never visited.,query_discrepancy
+There's a payment listed that I didn't authorize.,query_discrepancy
+Why was I charged for a service I opted out of?,query_discrepancy
+I'm trying to understand a debit transaction from two days ago.,query_discrepancy
+My statement has a charge for an item that was cancelled.,query_discrepancy
+What is this fee of $7.99 labelled 'membership'? I'm not a member.,query_discrepancy
+I see a charge for a gym membership I cancelled months ago.,query_discrepancy
+Why was there a cash advance fee when I just made a regular purchase?,query_discrepancy
+There's a discrepancy in my account balance. Can you help?,query_discrepancy
+I don't recall this large withdrawal from my checking account.,query_discrepancy
+What is the reason for the 'annual account maintenance fee' on my statement?,query_discrepancy
+I was charged twice for a digital download. Is this an error?,query_discrepancy
+My rewards points balance is incorrect. Did some points expire unexpectedly?,query_discrepancy
+Why did I get charged a foreign transaction fee when I bought something online from a US store?,query_discrepancy
+There's a small charge from 'Amazon.com' that I don't recognize.,query_discrepancy
+My statement includes a charge for 'premium support' I didn't opt for.,query_discrepancy
+I'm confused about a 'transaction adjustment' on my statement.,query_discrepancy
+Why was my direct deposit less than usual?,query_discrepancy
+"There's a charge from an online gaming company, but I don't play games.",query_discrepancy
+I want to know about a specific charge from last week on my credit card.,query_discrepancy
+My account was debited $25 for an unknown reason.,query_discrepancy
+Why do I have an 'inactive account fee'? I use my account regularly.,query_discrepancy
+"I'm questioning a charge from a hotel I stayed at months ago, it's a new charge.",query_discrepancy
+There's a charge for a digital newspaper subscription I cancelled.,query_discrepancy
+I noticed a payment processed twice. Is this correct?,query_discrepancy
+What's this unexpected fee on my monthly statement?,query_discrepancy
+My pending transactions include an amount that looks incorrect.,query_discrepancy
+I see a charge for 'cloud storage' but I don't use that service.,query_discrepancy
+Why was I charged for a return shipping fee when it was free returns?,query_discrepancy
+There's a peculiar charge from an international merchant on my card.,query_discrepancy
+My account balance doesn't reflect a recent payment I made.,query_discrepancy
+I'm unsure about a charge of $15.99 appearing monthly.,query_discrepancy
+What's the reason for this 'excess transaction fee'?,query_discrepancy
+There's a charge from a streaming service I unsubscribed from.,query_discrepancy
+I don't recognize a payment made to 'Utility Company X' from my account.,query_discrepancy
+Why was my recent purchase charged at a different amount than displayed?,query_discrepancy
+My bank statement shows an odd credit from an unknown source.,query_discrepancy

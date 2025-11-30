@@ -1,0 +1,6 @@
+text,label
+I received a notification about an unknown login attempt on my banking app.,potential_fraud_indicator
+Someone seems to have accessed my online account and changed my password without my consent.,potential_fraud_indicator
+There are some unusual transfers from my savings account that I don't recognize.,potential_fraud_indicator
+I'm concerned my personal details might have been compromised after a recent data breach.,potential_fraud_indicator
+What should I do if I suspect my identity has been stolen and used to open accounts?,potential_fraud_indicator

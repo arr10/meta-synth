@@ -1,0 +1,6 @@
+text,label
+"My account shows a credit of $25.50, what is that for?",monetary_mention
+How much money can I transfer daily?,monetary_mention
+"I want to convert some EUR into JPY, what's the exchange rate?",monetary_mention
+There's a suspicious charge for 3 dollars on my recent statement.,monetary_mention
+What is the minimum balance required for this account type?,monetary_mention

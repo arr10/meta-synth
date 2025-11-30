@@ -1,0 +1,6 @@
+text,label
+I want to convert my dollars to euros.,currency_exchange_intent
+How do I swap GBP for AUD?,currency_exchange_intent
+Is it possible to change my local currency to yen?,currency_exchange_intent
+I need to exchange some Canadian dollars for US dollars.,currency_exchange_intent
+What are the steps to convert currency?,currency_exchange_intent

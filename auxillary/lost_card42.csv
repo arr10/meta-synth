@@ -1,0 +1,6 @@
+text,label
+My wallet was stolen last night and my bank card was in it. What should I do?,lost_card
+I seem to have misplaced my credit card. I can't find it anywhere. Can you help me cancel it?,lost_card
+I think I left my debit card at the ATM. Is there a way to put a temporary block on it?,lost_card
+"Someone snatched my purse, and my bank card was inside. Please block my card immediately.",lost_card
+I've lost my card and need a replacement. How can I order a new one?,lost_card

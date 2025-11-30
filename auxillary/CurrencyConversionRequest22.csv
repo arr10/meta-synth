@@ -1,0 +1,6 @@
+text,label
+Can I move my AUD balance to EUR?,currency_conversion_request
+I need to exchange some funds from CAD to NZD.,currency_conversion_request
+Tell me how to change my USD into Mexican Pesos.,currency_conversion_request
+I'd like to convert my account from GBP to EUR.,currency_conversion_request
+Where can I find the option to switch my currency from Yen to Dollar?,currency_conversion_request

@@ -1,0 +1,6 @@
+text,label
+I noticed a strange login attempt on my account from an unknown location.,unauthorized_action_claim
+There's a recurring subscription on my bill that I never approved.,unauthorized_action_claim
+"I received a notification that my password was changed, but I didn't do it.",unauthorized_action_claim
+My personal information might have been compromised.,unauthorized_action_claim
+Someone seems to have made changes to my profile without my permission.,unauthorized_action_claim
