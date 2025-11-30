@@ -15,3 +15,6 @@ Run phase 3:
 ```
 python generate.py
 ```
+
+## Data
+auxillary contains all generated meta-tasks. auxillary_full contains only filtered tasks, with generated input-output pairs.
